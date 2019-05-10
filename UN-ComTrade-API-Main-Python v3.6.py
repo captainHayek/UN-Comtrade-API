@@ -117,8 +117,8 @@ hsCodesFrame = pd.read_csv(hsCodesFile, low_memory=False, na_filter=False, encod
 blankUNtradefile = r"\\act001cl04fs08\piaphdata$\Plant_Health_Policy\Nat_Prog\Surveillance\International Surveillance\Data\DistributionDataScript\comtradeMain.csv"
 csvMainUNdata = pd.read_csv(blankUNtradefile, low_memory=False, na_filter=False)
 
-for code in range(0,len(hsCodesFrame['HS Code Label'])):
-    urlUn = url2 + str(hsCodesFrame['HS Code Label'][code]) + url3
+for code in range(0,len(hsCodesFrame['HS Code'])):
+    urlUn = url2 + str(hsCodesFrame['HS Code'][code]) + url3
     print(urlUn)
     #UNresponse = json.loads(requests.get(urlUn,proxies=proxies).text)
     pause()

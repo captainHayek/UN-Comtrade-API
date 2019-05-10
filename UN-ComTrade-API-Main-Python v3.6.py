@@ -74,7 +74,7 @@ print("")
 
 proxies = {"https":"webproxy.agdaff.gov.au:8080"}
 
-# Parameter example:
+# URL Parameter examples:
 # http://comtrade.un.org/api/get/bulk/{type}/{freq}/{ps}/{r}/{px}?{token=}
 #
 # "r=598&freq=M&ps=2017&px=HS&type=C&token=?
@@ -86,25 +86,23 @@ proxies = {"https":"webproxy.agdaff.gov.au:8080"}
 #               list of classification codes is available at https://comtrade.un.org/Data/doc/api/bulk/
 # type=C  ---   "C"ommodities or "S"ervices are the two options available
 # token=? ---   Authentication token if available is optional
-#def UnParam(tradetype,frequency,timeperiod,reporterUNcode,dataclassification):
-#    url = "http://comtrade.un.org/api//refs/da/bulk/" 
-#    UNurl = url + r"/" + str(tradetype) + r"/" + str(frequency) + r"/" + str(timeperiod) + r"/" + str(reporterUNcode) + r"/" + str(dataclassification)
-#    urlUN = "http://comtrade.un.org/api//refs/da/bulk" + UNurl
-#
-#parameters = (["C"],["M"],["2017"],["598"],["HS"])
-#urlPath = UnParam(parameters[0],parameters[1],parameters[2],parameters[3],parameters[4])
+
+# "http://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2013&r=826&p=0&rg=all&cc=ALL&fmt=csv"
+# "http://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2017&r=598&p=36&rg=all&cc=ALL&fmt=json"
+
     
 citrusCodes = ['080510','080520','080530','080540','080550','080590']
 
+fruitCodes = ['080000']
+
 url = "https://comtrade.un.org/api//refs/da/bulk"
-# http://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2013&r=826&p=0&rg=all&cc=ALL&fmt=csv
+
 url2 = "https://comtrade.un.org/api/get?max=50000&type=C&freq=M&px=HS&ps=2017,2016,2015,2014,2013&r=36&p=all&rg=all&cc=" #080510&fmt=csv"
 #url2 = "http://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2017&r=598&p=36&rg=all&cc="
 url3 = "&fmt=json"
-#url2 = "https://www.cabi.org/ISC/datasheet/"
 
-# csvPestData = pd.read_csv(pestDistributionDataFiles[pest], low_memory=False, na_filter=False)
-
+hsCodesFile = r"\\act001cl04fs08\piaphdata$\Plant_Health_Policy\Nat_Prog\Surveillance\International Surveillance\Data\DistributionDataScript\harmonisedCodes6D.csv"
+hsCodesFrame = pd.read_csv(hsCodesFile, low_memory=False, na_filter=False, encoding="cp1252")
 blankUNtradefile = r"\\act001cl04fs08\piaphdata$\Plant_Health_Policy\Nat_Prog\Surveillance\International Surveillance\Data\DistributionDataScript\comtradeMain.csv"
 csvMainUNdata = pd.read_csv(blankUNtradefile, low_memory=False, na_filter=False)
 
@@ -183,7 +181,3 @@ if hours >1:
 	print("It took " + str(hours) + " hours to complete this task.")
 else:
 	print("It took " + str(minutes)[0:4] + " minutes to complete this task.")
-    
-                      
-		
-

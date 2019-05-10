@@ -1,0 +1,2113 @@
+Original HS Code,Original HS Classification,Description in Original Classification,Consolidated HS code
+010111,1996,Horses :-- Pure-bred breeding animals,010110
+010119,1996,Horses :-- Other,
+010120,1996,"Asses, mules and hinnies",
+010190,2002,Other,
+010190,2007,Live horses/asses/mules/hinnies other than pure-bred breeding animals,
+010592,1996,"Other :-- Fowls of the species Gallus domesticus, weighing not more than 2,000 g",010594
+010592,2002,"Fowls of the species Gallus domesticus, weighing not more than 2,000 g",010594
+010593,1996,"Other :-- Fowls of the species Gallus domesticus, weighing more than 2,000 g",010594
+010593,2002,"Fowls of the species Gallus domesticus, weighing more than 2,000 g",010594
+010611,2002,Primates,010600
+010611,2007,Live primates,
+010612,2002,"Whales, dolphins and porpoises (mammals of the order       Cetacea); manatees and dugongs (mammals of the order  Sirenia)",
+010612,2007,Live whales/dolphins & porpoises (order Cetacea)/manatees & dugongs (order Sirenia),
+010619,2002,Other,
+010619,2007,"Live mammals, n.e.s.",
+010620,2002,Reptiles (including snakes and turtles),
+010620,2007,"Live reptiles, incl. snakes & turtles",
+010631,2002,Birds of prey,
+010631,2007,Live birds of prey,
+010632,2002,"Psittaciformes (including parrots, parakeets, macaws and cockatoos)",
+010632,2007,"Live birds (order Psittaciformes), incl. parrots/parakeets/macaws/cockatoos",
+010639,2002,Other,
+010639,2007,Live birds (excl. of 0106.31 & 0106.32),
+010690,2002,Other,
+010690,2007,"Live animals, n.e.s.",
+020830,2002,Of primates,020890
+020830,2007,"Meat & edible meat offal of primates, fresh/chilled/frozen",020890
+020840,2002,"Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia)",020890
+020840,2007,"Meat & edible offal of whales, dolphins & porpoises (order Cetacea); of manatees & dugongs (order Sirenia), fresh/chilled/frozen",020890
+020850,2002,Of reptiles (including snakes and turtles),020890
+020850,2007,"Meat & edible offal of reptiles, incl. snakes & turtles, fresh/chilled/frozen",020890
+021091,2002,Of primates,021090
+021091,2007,"Meat & edible meat offal of primates, salted/in brine/dried/smoked, incl. edible flours/meals",021090
+021092,2002,"Of whales, dolphins and porpoises (mammals of the order Cetacea); of  manatees and dugongs (mammals of the order Sirenia)",021090
+021092,2007,"Meat & edible meat offal of whales/dolphins/porpoises (order Cetacea)/manatees & dugongs (order Sirenia), salted/in brine/dried/smoked, incl. edible flours/meals",021090
+021093,2002,Of reptiles (including snakes and turtles),021090
+021093,2007,"Meat & edible meat offal of reptiles, incl. snakes & turtles, salted/in brine/dried/smoked, incl. edible flours/meals",021090
+021099,2002,Other,021090
+021099,2007,"Meat & edible meat offal, n.e.s., salted/in brine/dried/smoked, incl. edible flours/meals",021090
+030194,2007,Live bluefin tunas (Thunnus thynnus),030199
+030195,2007,Live southern bluefin tunas (Thunnus maccoyii),030199
+030234,2002,Bigeye tunas (Thunnus obesus),030239
+030234,2007,"Bigeye tunas (Thunnus obesus), fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)",030239
+030235,2002,Bluefin tunas (Thunnus thynnus),030239
+030235,2007,"Bluefin tunas (Thunnus thynnus), fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)",030239
+030236,2002,Southern bluefin tunas (Thunnus maccoyii),030239
+030236,2007,"Southern bluefin tunas (Thunnus maccoyii), fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)",030239
+030267,2007,"Swordfish (Xiphias gladius), fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)",030269
+030268,2007,"Toothfish (Dissostichus spp.),fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)",030269
+030311,2002,Sockeye salmon (red salmon) (Oncorhynchus nerka),030310
+030311,2007,"Sockeye salmon (red salmon) (Oncorhynchus nerka), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030310
+030319,2002,Other,030310
+030319,2007,"Pacific salmon (Oncorhynchus gorbuscha/keta/tschawytscha/kisutch/masou/rhodurus), frozen (excl. of 0303.11; excl. fillets/other fish meat of 03.04/livers & roes)",030310
+030344,2002,Bigeye tunas (Thunnus obesus),030349
+030344,2007,"Bigeye tunas (Thunnus obesus), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030349
+030345,2002,Bluefin tunas (Thunnus thynnus),030349
+030345,2007,"Bluefin tunas (Thunnus thynnus), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030349
+030346,2002,Southern bluefin tunas (Thunnus maccoyii),030349
+030346,2007,"Southern bluefin tunas (Thunnus maccoyii), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030349
+030351,2007,"Herrings (Clupea harengus, Clupea pallasii), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030350
+030352,2007,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030360
+030361,2007,"Swordfish (Xiphias gladius), frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030379
+030362,2007,"Toothfish (Dissostichus spp.),frozen (excl. fillets/other fish meat of 03.04/livers & roes)",030379
+030411,2007,"Swordfish (Xiphias gladius),fresh/chilled",030410
+030412,2007,"Toothfish (Dissostichus spp.),fresh/chilled",030410
+030419,2007,"Fish fillets&other fish meat (excl. of 0304.11-0304.12, whether/not minced), fresh/chilled",030410
+030421,2007,"Swordfish (Xiphias gladius),frozen fillets",030420
+030422,2007,"Toothfish (Dissostichus spp.), frozen fillets",030420
+030429,2007,"Fish fillets&other fish meat (excl. of 0304.21-0304.92, whether/not minced), frozen fillets",030420
+030491,2007,"Swordfish (Xiphias gladius),n.e.s.",030490
+030492,2007,"Toothfish (Dissostichus spp.),n.e.s.",030490
+030499,2007,"Fish fillets&other fish meat (excl. of 0304.11-0304.29, whether/not minced),n.e.s.",030490
+050300,1996,"Horsehair and horsehair waste, whether or not put up as a layer with or without supporting material.",051199
+050300,2002,"Horsehair and horsehair waste, whether or not put up as a layer with or without supporting material.",051199
+050900,1996,Natural sponges of animal origin.,051199
+050900,2002,Natural sponges of animal origin.,051199
+060311,2007,Fresh roses,060310
+060312,2007,Fresh carnations,060310
+060313,2007,Fresh orchids,060310
+060314,2007,Fresh chrysanthemums,060310
+060319,2007,"Cut flowers & flower buds of a kind suit. for bouquets/ornamental purposes(excl. of 0603.11-0603.14), fresh",060310
+070990,1996,Other,070910
+070990,2002,Other,070910
+070990,2007,"Vegetables,n.e.s. in 07.01-07.09, fresh/chilled",070910
+070959,2002,Other,070952
+070959,2007,"Mushrooms&truffles (excl. of 0709.51), fresh/chilled",070952
+071110,1996,Onions,071190
+071151,2002,Mushrooms of the genus Agaricus,071190
+071151,2007,"Mushrooms of the genus Agaricus, provisionally preserved",071190
+071159,2002,Other,071190
+071159,2007,"Mushrooms other than of the genus Agaricus, provisionally preserved",071190
+071231,2002,Mushrooms of the genus Agaricus,071230
+071231,2007,"Mushrooms of the genus Agaricus, dried, whole/cut/sliced/broken/in powder but not further prepared",071230
+071232,2002,Wood ears (Auricularia spp.),071230
+071232,2007,"Wood ears (Auricularia spp.), dried, whole/cut/sliced/broken/in powder but not further prepared",071230
+071233,2002,Jelly fungi (Tremella spp.),071230
+071233,2007,"Jelly fungi (Tremella spp.), dried, whole/cut/sliced/broken/in powder but not further prepared",071230
+071239,2002,Other,071230
+071239,2007,"Mushrooms (excl. of 0712.31-0712.33) & truffles, dried, whole/cut/sliced/broken/in powder but not further prepared",071230
+080260,2007,Macadamia nuts,080290
+080530,1996,"Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia)",080550
+080590,1996,Other,080550
+080590,2002,Other,080550
+080590,2007,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",080550
+081090,1996,Other,081060
+081090,2002,Other,081060
+081090,2007,"Fresh fruit, n.e.s. in Ch. 8",081060
+081220,1996,Strawberries,081290
+090611,2007,"Cinnamon(Cinnamomum zeylanicum Blume) & cinnamon-tree flowers, neither crushed/ground",090610
+090619,2007,"Cinnamon(excl. of  0906.11) & cinnamon-tree flowers, neither crushed/ground",090610
+091099,1996,Other spices :-- Other,091040
+091099,2002,Other,091040
+091099,2007,"Spices, n.e.s. in Ch. 9",091040
+091091,1996,Other spices :-- Mixtures referred to in Note 1 (b) to this Chapter,091050
+091091,2002,Mixtures referred to in Note 1 (b) to this Chapter,091050
+091091,2007,Mixtures of 2/more products of different headings of 09.04-09.10,091050
+110290,1996,Other,110230
+110290,2002,Other,110230
+110290,2007,Cereal flour other than of wheat/meslin/rye/maize(corn),110230
+110312,1996,Groats and meal :-- Of oats,110319
+110314,1996,Groats and meal :-- Of rice,110319
+110321,1996,Pellets :-- Of wheat,110320
+110329,1996,Pellets :-- Of other cereals,110320
+110411,1996,Rolled or flaked grains :-- Of barley,110419
+110421,1996,"Other worked grains (for example, hulled, pearled, sliced or kibbled) :-- Of barley",110429
+120510,2002,Low erucic acid rape or colza seeds,120500
+120510,2007,"Low erucic acid rape/colza seeds, whether/not broken",120500
+120590,2002,Other,120500
+120590,2007,"Rape/colza seeds (excl. low erucic acid), whether/not broken",120500
+120710,1996,Palm nuts and kernels,120799
+120710,2002,Palm nuts and kernels,120799
+120730,1996,Castor oil seeds,120799
+120730,2002,Castor oil seeds,120799
+120760,1996,Safflower seeds,120799
+120760,2002,Safflower seeds,120799
+120792,1996,Other :-- Shea nuts (karite nuts),120799
+120911,1996,Beet seed :-- Sugar beet seed,120910
+120991,1996,Other :-- Vegetable seeds,120919
+120991,2002,Vegetable seeds,120919
+120991,2007,"Vegetable seeds, of a kind used for sowing",120919
+120929,1996,"Seeds of forage plants, other than beet seed :-- Other",120926
+120929,2002,Other,120926
+120929,2007,"Seeds of forage plants (excl. of 1209.21-1209.25), of a kind used for sowing",120926
+121130,2002,Coca leaf,121190
+121130,2007,Coca leaf,121190
+121140,2002,Poppy straw,121190
+121140,2007,Poppy straw,121190
+121210,1996,"Locust beans, including locust bean seeds",121299
+121210,2002,"Locust beans, including locust bean seeds",121299
+121230,1996,"Apricot, peach or plum stones and kernels",121299
+121230,2002,"Apricot, peach (including nectarine) or plum stones and kernels",121299
+121292,1996,Other :-- Sugar cane,121299
+130190,1996,Other,130110
+130190,2002,Other,130110
+130190,2007,"Lac; Natural gums (excl. of 1301.20), resins, gum-resins & oleoresins (e.g., balsams)",130110
+130219,1996,Vegetable saps and extracts :-- Other,130214
+130219,2002,Other,130214
+130219,2007,Vegetable saps & extracts (excl. of 1302.11-1302.13),130214
+140200,2002,"Vegetable materials of a kind used primarily as stuffing or as padding (for example, kapok, vegetable hair and eelgrass), whether or not put up as a layer with or without supporting material.",140490
+140210,1996,Kapok,140490
+140290,1996,Other,140490
+140300,2002,"Vegetable materials of a kind used primarily in brooms or in brushes (for example, broomcorn, piassava, couchgrass and istle), whether or not in hanks or bundles.",140490
+140310,1996,Broomcorn (Sorghum vulgare var.technicum),140490
+140390,1996,Other,140490
+140410,1996,Raw vegetable materials of a kind used primarily in dyeing or tanning,140490
+140410,2002,Raw vegetable materials of a kind used primarily in dyeing or tanning,140490
+150510,1996,"Wool grease, crude",150500
+150590,1996,Other,150500
+151411,2002,Crude oil,151410
+151411,2007,"Low erucic acid rape/colza oil, crude",151410
+151491,2002,Crude oil,151410
+151491,2007,"Rape/colza oil (excl. low erucic acid oil) & mustard oil, crude",151410
+151419,2002,Other,151490
+151419,2007,"Low erucic acid rape/colza oil, other than crude, & fractions thereof , whether/not refined but not chemically modified",151490
+151499,2002,Other,151490
+151499,2007,"Rape/colza oil (excl. low erucic acid oil) & mustard oil, other than crude, & fractions thereof , whether/not refined but not chemically modified",151490
+151560,1996,Jojoba oil and its fractions,151590
+190490,1996,Other,190430
+190490,2002,Other,190430
+190490,2007,"Cereals other than maize (corn) in grain form/in the form of flakes/other worked grains (excl. flour/groats/meal), pre-cooked/othw. prepd, n.e.s.",190430
+190531,2002,Sweet biscuits,190530
+190531,2007,Sweet biscuits,190530
+190532,2002,Waffles and wafers,190530
+190532,2007,Waffles & wafers,190530
+200120,1996,Onions,200190
+200310,1996,Mushrooms,200390
+200310,2002,Mushrooms of the genus Agaricus,200390
+200310,2007,"Mushrooms of the genus Agaricus, prepared/preserved othw. than by vinegar/acetic acid",200390
+200591,2007,"Bamboo shoots, prepared/preserved othw. than by vinegar/acetic acid, not frozen, other than products of heading 20.06",200590
+200599,2007,"Vegetables & mixtures of vegetables (excl. of 2005.10-2005.91), prepared/preserved othw. than by vinegar/acetic acid, not frozen, other than products of heading 20.06",200590
+200919,1996,Orange juice :-- Other,200912
+200919,2002,Other,200912
+200919,2007,"Orange juice, not frozen (excl. of 2009.19), unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200912
+200921,2002,Of a Brix value not exceeding 20,200920
+200921,2007,"Grapefruit juice, of a Brix value not >20, unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200920
+200929,2002,Other,200920
+200929,2007,"Grapefruit juice (excl. of 2009.21), unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200920
+200931,2002,Of a Brix value not exceeding 20,200930
+200931,2007,"Juice of any single citrus fruit other than orange/grapefruit, of a Brix value not >20, unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200930
+200939,2002,Other,200930
+200939,2007,"Juice of any single citrus fruit other than orange/grapefruit (excl. of 2009.31), unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200930
+200941,2002,Of a Brix value not exceeding 20,200940
+200941,2007,"Pineapple juice, of a Brix value not >20, unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200940
+200949,2002,Other,200940
+200949,2007,"Pineapple juice (excl. of 2009.41), unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200940
+200961,2002,Of a Brix value not exceeding 30,200960
+200961,2007,"Grape juice, incl. grape must, of a Brix value not >30, unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200960
+200969,2002,Other,200960
+200969,2007,"Grape juice, incl. grape must (excl. of 2009.61), unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200960
+200971,2002,Of a Brix value not exceeding 20,200970
+200971,2007,"Apple juice, of a Brix value not >20, unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200970
+200979,2002,Other,200970
+200979,2007,"Apple juice (excl. of 2009.71), unfermented & not containing added spirit, whether/not containing added sugar/other sweetening matter",200970
+230240,1996,Of other cereals,230220
+230240,2002,Of other cereals,230220
+230240,2007,"Bran, sharps & other residues, whether/not in the form of pellets, derived from the sifting/milling/other working of cereals other than maize (corn)/wheat",230220
+230641,2002,Of low erucic acid rape or colza seeds,230640
+230641,2007,"Oil-cake & other solid residues, whether/not ground/in pellets, from extraction of low erucic acid rape/colza seeds",230640
+230649,2002,Other,230640
+230649,2007,"Oil-cake & other solid residues, whether/not ground/in pellets, from extraction of rape/colza seeds (excl. low erucic acid seeds)",230640
+230690,1996,Other,230670
+230690,2002,Other,230670
+230690,2007,"Oil-cake & other solid residues, whether/not ground/in form of pellets, resulting from the extraction of vegetable fats/oils (excl. of 23.04, 23.05 & 2306.10-2306.60)",230670
+230810,1996,Acorns and horse-chestnuts,230800
+230890,1996,Other,230800
+250621,1996,Quartzite :-- Crude or roughly trimmed,250620
+250621,2002,Crude or roughly trimmed,250620
+250629,1996,Quartzite :-- Other,250620
+250629,2002,Other,250620
+250840,1996,Other clays,250820
+250840,2002,Other clays,250820
+250840,2007,"Clays other than expanded clays of 68.06 (excl. of 2507.00, 2508.10 & 2508.30)",250820
+251311,1996,"Pumice stone :-- Crude or in irregular pieces, including crushed pumice (bimskies)",251310
+251311,2002,"Crude or in irregular pieces, including crushed pumice (bimskies)",251310
+251319,1996,Pumice stone :-- Other,251310
+251319,2002,Other,251310
+251621,1996,Sandstone :-- Crude or roughly trimmed,251620
+251621,2002,Crude or roughly trimmed,251620
+251622,1996,"Sandstone :-- Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",251620
+251622,2002,"Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",251620
+252410,2007,Crocidolite,252400
+252490,2007,Asbestos other than crocidolite,252400
+252700,1996,Natural cryolite; natural chiolite.,253090
+253040,1996,Natural micaceous iron oxides,253090
+262021,2002,Leaded gasoline sludges and leaded antiknock compound sludges,262020
+262021,2007,Leaded gasoline sludges & leaded anti-knock compound sludges,262020
+262029,2002,Other,262020
+262029,2007,Ash & residues (excl. from the manufacture of iron/steel) containing lead (excl. of 2620.21),262020
+262060,2002,"Containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for the manufacture of their chemical compounds",262050
+262060,2007,"Slag,ash & residues (excl. from the manufacture of iron/steel) containing arsenic/mercury/thallium/their mixtures, of a kind used for the extraction  of arsenic/those metals /for the manufacture of their chemical compounds",262050
+262090,1996,Other,262050
+262091,2002,"Containing antimony, beryllium, cadmium, chromium or their mixtures",262050
+262091,2007,Ash & residues (excl. from the manufacture of iron/steel) containing antimony/beryllium/cadmium/chromium/their mixtures,262050
+262099,2002,Other,262050
+262099,2007,"Ash & residues (excl. from the manufacture of iron/steel), n.e.s. in Ch.26",262050
+262100,1996,"Other slag and ash, including seaweed ash (kelp).",262050
+262110,2002,Ash and residues from the incineration of municipal waste,262050
+262110,2007,Ash & residues from the incineration of municipal waste,262050
+262190,2002,Other,262050
+262190,2007,"Slag & ash, incl. seaweed ash (kelp), other than ash & residues from the incineration of municipal waste",262050
+280521,1996,Alkaline-earth metals :-- Calcium,280512
+280522,1996,Alkaline-earth metals :-- Strontium and barium,280519
+281129,1996,Other inorganic oxygen compounds of non-metals : -- Other,281123
+281129,2002,Other,281123
+281129,2007,"Inorganic oxygen comps. of non-metals (excl. of 2811.21& 2811.22),n.e.s.",281123
+281620,1996,"Oxide, hydroxide and peroxide of strontium",281640
+281630,1996,"Oxide, hydroxide and peroxide of barium",281640
+282490,1996,Other,282420
+282490,2002,Other,282420
+282490,2007,Lead oxides (excl. of 2824.10);red lead&orange lead,282420
+282738,1996,Other chlorides:-- Of barium,282590
+282749,1996,Chloride oxides and chloride hydroxides:-- Other,
+282749,2002,Other,
+282749,2007,Chloride oxides & chloride hydroxides other than of copper,
+282760,1996,Iodides and iodide oxides,
+282760,2002,Iodides and iodide oxides,
+282760,2007,Iodides & iodide oxides,
+283422,1996,Nitrates:-- Of bismuth,
+283429,1996,Nitrates:-- Other,
+283429,2002,Other,
+283429,2007,Nitrates other than of potassium,
+283539,1996,Polyphosphates:-- Other,
+283539,2002,Other,
+283539,2007,Polyphosphates (excl. of 2835.31),
+283719,1996,Cyanides and cyanide oxides:-- Other,
+283719,2002,Other,
+283719,2007,Cyanides & cyanide oxides (excl. of 2837.11),
+283720,1996,Complex cyanides,
+283720,2002,Complex cyanides,
+283720,2007,Complex cyanides,
+283800,1996,"Fulminates, cyanates and thiocyanates",
+283800,2002,"Fulminates, cyanates and thiocyanates.",
+284140,1996,Potassium dichromate,
+284150,1996,Other chromates and dichromates; peroxochromates,
+284150,2002,Other chromates and dichromates; peroxochromates,
+284150,2007,Chromates&dichromates(excl. of 2841.30); peroxochromates,
+284210,1996,Double or complex silicates,
+284210,2002,"Double or complex silicates, including aluminosilicates whether or not chemically defined",
+284210,2007,"Double/complex silicates, incl. aluminosilicates, whether/not chemically defined",
+284290,1996,Other,
+284290,2002,Other,
+284290,2007,"Salts of inorganic acids/peroxoacids (excl. of double/complex silicates), whether/not chemically defined (excl. azides)",
+284390,1996,Other compounds; amalgams,
+284390,2002,Other compounds; amalgams,
+284390,2007,"Inorganic/organic compounds of precious metals (excl. of 2843.21 - 2843.30), whether/not chemically defined; amalgams of precious metals",
+284800,1996,"Phosphides, whether or not chemically defined, excluding ferrophosphorus",
+284800,2002,"Phosphides, whether or not chemically defined, excluding ferrophosphorus.",
+284800,2007,"Phosphides, whether/not chemically defined (excl. ferrophosphorus)",
+284990,1996,Other,
+284990,2002,Other,
+284990,2007,"Carbides (excl. of 2849.10 & 2849.20), whether/not chemically defined",
+285000,1996,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading No. 28.49",
+285000,2002,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49.",
+285000,2007,"Hydrides, nitrides, azides, silicides&borides, whether/not chemically defined, other than compounds which are also carbides of heading 28.49.",
+285100,1996,"Other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals",
+285100,2002,"Other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals.",
+285200,2007,"Compounds, inorganic/organic, of mercury, excluding amalgams.",
+285300,2007,"Other inorganic compounds (including distilled/conductivity water&water of similar purity); liquid air (whether/not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals.",
+282619,1996,Fluorides:-- Other,282611
+282619,2002,Other,282611
+282619,2007,Flourides other than of aluminium,282611
+282690,1996,Other,282620
+282690,2002,Other,282620
+282690,2007,"Fluorosilicates, fluoroaluminates (excl. of 2826.30) & other complex fluorine salts",282620
+282733,1996,Other chlorides:-- Of iron,282739
+282733,2002,Of iron,282739
+282734,1996,Other chlorides:-- Of cobalt,282739
+282734,2002,Of cobalt,282739
+282736,1996,Other chlorides:-- Of zinc,282739
+282736,2002,Of zinc,282739
+283020,1996,Zinc sulphide,283090
+283020,2002,Zinc sulphide,283090
+283030,1996,Cadmium sulphide,283090
+283030,2002,Cadmium sulphide,283090
+283323,1996,Other sulphates:-- Of chromium,283329
+283323,2002,Of chromium,283329
+283326,1996,Other sulphates:-- Of zinc,283329
+283326,2002,Of zinc,283329
+283529,1996,Phosphates:-- Other,283523
+283529,2002,Other,283523
+283529,2007,Phosphates (excl. of 2835.22-2835.26),283523
+283610,1996,Commercial ammonium carbonate and other ammonium carbonates,283699
+283610,2002,Commercial ammonium carbonate and other ammonium carbonates,283699
+283670,1996,Lead carbonate,283699
+283670,2002,Lead carbonates,283699
+283990,1996,Other,283920
+283990,2002,Other,283920
+283990,2007,Silicates other than of sodium; commercial alkali metal silicates,283920
+284190,1996,Other,284110
+284190,2002,Other,284110
+284190,2007,Salts of oxometallic/peroxometallic acids (excl. of 2841.30-2841.80),284110
+290316,1996,"Saturated chlorinated derivatives of acyclic hydrocarbons:-- 1,2-Dichloropropane (propylene dichloride) and dichlorobutanes",290319
+290331,2007,"Ethylene dibromide (ISO) (1,2-dibromoethane)",290330
+290339,2007,Fluorinated/brominated/iodinated derivatives of acyclic hydrocarbons (excl. of 2903.31),290330
+290352,2007,"Aldrin (ISO), chlordane (ISO)&heptachlor (ISO)",290359
+290519,1996,Saturated monohydric alcohols:-- Other,290515
+290519,2002,Other,290515
+290519,2007,Saturated monohydric alcohols (excl. of 2905.11-2905.17),290515
+290551,2002,Ethchlorvynol (INN),290550
+290551,2007,Ethchlorvynol (INN),290550
+290559,2002,Other,290550
+290559,2007,"Halogenated/sulphonated/nitrated/nitrosated derivatives of acyclic alcohols, other than ethchlorvynol (INN)",290550
+290619,1996,"Cyclanic, cyclenic or cycloterpenic:-- Other",290614
+290619,2002,Other,290614
+290619,2007,Cyclanic/cyclenic/cycloterpenic alcohols & their halogenated/sulphonated/nitrated/nitrosated derivatives (excl. of 2906.11-2906.13),290614
+290719,1996,Monophenols :-- Other,290714
+290719,2002,Other,290714
+290719,2007,Other monophenols,290714
+290730,1996,Phenol-alcohols,290729
+290811,2007,Pentachlorophenol (ISO),290810
+290819,2007,Halogenated derivatives of phenols/phenol-alcohols containing only halogen substituents & their salts (excl. of 2908.11),290810
+290890,1996,Other,290820
+290890,2002,Other,290820
+290891,2007,Dinoseb (ISO)&its salts,290820
+290899,2007,Halogenated/sulphonated/nitrated/nitrosated derivatives of phenols/phenol-alcohols (excl. of 2908.11-2908.91),290820
+290944,1996,"Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives :-- Other monoalkylethers of ethylene glycol or of diethylene glycol",290942
+290944,2002,Other monoalkylethers of ethylene glycol or of diethylene glycol,290942
+290944,2007,Monoalkylethers of ethylene glycol/diethylene glycol (excl. of 2909.43),290942
+291040,2007,"Dieldrin (ISO, INN)",291090
+291219,1996,Acyclic aldehydes without other oxygen function :-- Other,291213
+291219,2002,Other,291213
+291219,2007,Acyclic aldehydes without other oxygen function (excl. of 2912.11&2912.12),291213
+292250,1996,"Amino-alcohol-phenols, amino-acid-phenols and other amino-compounds with oxygen function",291450
+292250,2002,"Amino-alcohol-phenols, amino-acid-phenols and other aminocompounds with oxygen function",291450
+292250,2007,"Amino-alcohol-phenols, amino-acid-phenols & other amino-comps. with oxygen function",291450
+293390,1996,Other,291450
+293391,2002,"Alprazolam (INN), camazepam (INN), chlordiazepoxide (INN), clonazepam (INN), clorazepate, delorazepam (INN), diazepam (INN), estazolam (INN), ethyl loflazepate (INN), fludiazepam (INN), flunitrazepam (INN), flurazepam (INN), halazepam (INN), lo",291450
+293391,2007,"Alprazolam (INN), camazepam (INN), chlordiazepoxide (INN), clonazepam (INN), clorazepate, delorazepam (INN), diazepam (INN), estazolam (INN), ethyl loflazepate (INN), fludiazepam (INN), flunitrazepam (INN), flurazepam (INN), halazepam (INN), lo",291450
+293399,2002,Other,291450
+293399,2007,Heterocyclic comps. with nitrogen hetero-atom(s) only (excl. of 2933.11-2933.91),291450
+293490,1996,Other,291450
+293491,2002,"Aminorex (INN), brotizolam (INN), clotiazepam (INN), cloxazolam (INN), dextromoramide (INN), haloxazolam (INN), ketazolam (INN), mesocarb (INN), oxazolam (INN), pemoline (INN), phendimetrazine (INN), phenmetrazine (INN) and sufentanil (INN); sa",291450
+293491,2007,"Aminorex (INN), brotizolam (INN), clotiazepam (INN), cloxazolam (INN), dextromoramide (INN), haloxazolam (INN), ketazolam (INN), mesocarb (INN), oxazolam (INN), pemoline (INN), phendimetrazine (INN), phenmetrazine (INN) & sufentanil (INN); salt",291450
+293499,2002,Other,291450
+293499,2007,"Nucleic acids&their salts, whether/not chemically defined,n.e.s.; other heterocyclic compounds,n.e.s.",291450
+293710,1996,"Pituitary (anterior) or similar hormones, and their derivatives",291450
+293711,2002,"Somatotropin, its derivatives and structural analogues",291450
+293711,2007,"Somatotropin, its derivatives & structural analogues",291450
+293719,2002,Other,291450
+293719,2007,"Polypeptide hormones, protein hormones & glycoprotein hormones, their derivatives & structural analogues (excl. of 2937.11 & 2937.12)",291450
+293729,1996,Adrenal cortical hormones and their derivatives :-- Other,291450
+293729,2002,Other,291450
+293729,2007,"Steroidal hormones, their derivatives & structural analogues (excl. of 2937.21-2937.23)",291450
+293731,2002,Epinephrine,291450
+293731,2007,Epinephrine,291450
+293739,2002,Other,291450
+293739,2007,"Catecholamine hormones other than epinephrine, their derivatives & structural analogues",291450
+293740,2002,Aminoacid derivatives,291450
+293740,2007,Amino-acid derivatives,291450
+293750,2002,"Prostaglandins, thromboxanes and leukotrienes, their derivatives and structural analogues",291450
+293750,2007,"Prostaglandins, thromboxanes & leukotrienes, their derivatives & structural analogues",291450
+293790,2002,Other,291450
+293790,2007,"Hormones, prostaglandins, thromboxanes & leukotrienes, natural/reproduced by synthesis(excl. of  2937.11-2937.50); derivatives & structural analogues thereof, including chain modified polypeptides, used primarily as hormones",291450
+293799,1996,Other hormones and their derivatives; other steroids used primarily as hormones :-- Other,291450
+291522,1996,Acetic acid and its salts; acetic anhydride :-- Sodium acetate,291529
+291522,2002,Sodium acetate,291529
+291523,1996,Acetic acid and its salts; acetic anhydride :-- Cobalt acetates,291529
+291523,2002,Cobalt acetates,291529
+291534,1996,Esters of acetic acid :-- Isobutyl acetate,291539
+291534,2002,Isobutyl acetate,291539
+291535,1996,Esters of acetic acid :-- 2-Ethoxyethyl acetate,291539
+291535,2002,2-Ethoxyethyl acetate,291539
+291536,2007,Dinoseb (ISO) acetate,291539
+291734,1996,"Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives :-- Other esters of orthophthalic acid",291731
+291734,2002,Other esters of orthophthalic acid,291731
+291734,2007,"Esters of orthophthalic acid, other than dioctyl/dinonyl/didecyl orthophthalates",291731
+291817,1996,"Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives :-- Phenylglycolic acid (mandelic acid), its salts and esters",291819
+291891,2007,"2,4,5-T (ISO) (2,4,5-trichlorophenoxyacetic acid), its salts&esters",291890
+291899,2007,Carboxylic acids with additional oxygen function&their anhydrides/halides/peroxides/peroxyacids;their halogenated/sulphonated/nitrated/nitrosated derivatives(excl. 2918.11-2918.91),291890
+291910,2007,"Tris(2,3-dibromopropyl) phosphate",291900
+291990,2007,"Phosphoric esters&their salts, including lactophosphates; their halogenated, sulphonated, nitrated/nitrosated derivatives(excl. of 2919.10)",291900
+292011,2007,Parathion (ISO)&parathion-methyl (ISO) (methyl-parathion),292010
+292019,2007,"Thiophosphoric esters (phosphorothioates)&their salts; their halogenated, sulphonated, nitrated/nitrosated derivatives (excl. of 2920.11)",292010
+292119,1996,Acyclic monoamines and their derivatives; salts thereof :-- Other,292112
+292119,2002,Other,292112
+292119,2007,Acyclic monoamines & their derivatives (excl. of 2921.11); salts thereof,292112
+292149,1996,Aromatic monoamines and their derivatives; salts thereof :-- Other,292146
+292149,2002,Other,292146
+292149,2007,Aromatic monoamines & their derivatives (excl. of 2921.41-2921.46); salts thereof,292146
+292219,1996,"Amino-alcohols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof :- Other",292214
+292219,2002,Other,292214
+292219,2007,"Amino-alcohols other than those containing > one kind of oxygen function (excl. of 2922.11-2922.14), their ethers & esters; salts thereof",292214
+292229,1996,"Amino-naphthols and other amino-phenols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof :-- Other",292222
+292229,2002,Other,292222
+292229,2007,"Amino-naphthols&other amino-phenols, other than those containing more than one kind of oxygen function(excl. of 2922.21), their ethers&esters; salts thereof",292222
+292231,2002,"Amfepramone (INN), methadone (INN) and normethadone (INN); salts thereof",292230
+292231,2007,"Amfepramone (INN), methadone (INN) & normethadone (INN); salts thereof",292230
+292239,2002,Other,292230
+292239,2007,"Amino-aldehydes, amino-ketones & amino-quinones, other than those containing > one kind of oxygen function (excl. of 2922.31); salts thereof",292230
+292249,1996,"Amino-acids and their esters, other than those containing more than one kind of oxygen function; salts thereof :-- Other",292244
+292249,2002,Other,292244
+292249,2007,"Amino-acids, other than those containing > one kind of oxygen function, & their esters (excl. of 2922.41-2922.44); salts thereof",292244
+292411,2002,Meprobamate (INN),292410
+292411,2007,Meprobamate (INN),292410
+292423,2002,2Acetamidobenzoic acid (Nacetylanthranilic acid) and its salts,292422
+292423,2007,2-Acetamidobenzoic acid (N-acetylanthranilic acid) & its salts,292422
+292424,2002,Ethinamate (INN),292422
+292424,2007,Ethinamate (INN),292422
+292429,1996,Cyclic amides (including cyclic carbamates) and their derivatives; salts thereof :-- Other,292422
+292429,2002,Other,292422
+292429,2007,Cyclic amides (incl. cyclic carbamates) & their derivatives (excl. of 2924.21-2924.24); salts thereof,292422
+292519,1996,Imides and their derivatives; salts thereof :-- Other,292512
+292519,2002,Other,292512
+292519,2007,Imides & their derivatives other than saccharin & glutethimide (INN); salts thereof,292512
+292521,2007,Chlordimeform (ISO),292520
+292529,2007,Imines&their derivatives (excl. of 2925.21); salts thereof,292520
+292690,1996,Other,292630
+292690,2002,Other,292630
+292690,2007,Nitrile-function comps. (excl. of 2926.10-2923.30),292630
+293050,2007,Captafol (ISO)&methamidophos (ISO),293090
+293299,1996,Other,293295
+293299,2002,Other,293295
+293299,2007,Heterocyclic compounds with oxygen hetero-atom(s) only (excl. of 2932.11-2932.95),293295
+293339,1996,Compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure :-- Other,293333
+293339,2002,Other,293333
+293339,2007,Heterocyclic comps. containing an unfused pyridine ring (whether/not hydrogenated) in the structure (excl. of 2933.31-2933.33),293333
+293341,2002,Levorphanol (INN) and its salts,293340
+293341,2007,Levorphanol (INN) & its salts,293340
+293349,2002,Other,293340
+293349,2007,"Heterocyclic comps. containing in the structure a quinoline/isoquinoline ring-system (whether/not hydrogenated), not further fused, other than levorphanol (INN) & its salts",293340
+293352,2002,Malonylurea (barbituric acid) and its salts,293351
+293352,2007,Malonylurea (barbituric acid) & its salts,293351
+293353,2002,"Allobarbital (INN), amobarbital (INN), barbital (INN), butalbital (INN), butobarbital, cyclobarbital (INN), methylphenobarbital (INN), pentobarbital (INN), phenobarbital (INN), secbutabarbital (INN), secobarbital (INN) and vinylbital (INN); sal",293351
+293353,2007,"Allobarbital (INN), amobarbital (INN), barbital (INN), butalbital (INN), butobarbital, cyclobarbital (INN), methylphenobarbital (INN), pentobarbital (INN), phenobarbital (INN), secbutabarbital (INN), secobarbital (INN) & vinylbital (INN); salts",293351
+293354,2002,Other derivatives of malonylurea (barbituric acid); salts thereof,293351
+293354,2007,Derivatives of malonylurea (barbituric acid) (excl. of 2933.53); salts thereof,293351
+293359,1996,Compounds containing a pyrimidine ring (whether or not hydrogenated) or piperazine ring in the structure :-- Other,293355
+293359,2002,Other,293355
+293359,2007,Heterocyclic comps. containing a pyrimidine ring (whether/not hydrogenated)/piperazine ring in the structure (excl. of 2933.52-2933.55),293355
+293379,1996,Lactams :-- Other lactams,293372
+293379,2002,Other lactams,293372
+293379,2007,Lactams (excl. of 2933.71 & 2933.72),293372
+293690,1996,"Other, including natural concentrates",293610
+293690,2002,"Other, including natural concentrates",293610
+293690,2007,"Provitamins&vitamins, natural/reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins,&intermixtures of the foregoing, whether/not in any solvent,n.e.s.in Ch 29.36",293610
+293791,1996,Other hormones and their derivatives; other steroids used primarily as hormones :-- Insulin and its salts,293712
+293792,1996,Other hormones and their derivatives; other steroids used primarily as hormones :-- Oestrogens and progestogens,293723
+293911,2002,"Concentrates of poppy straw; buprenorphine (INN), codeine, dihydrocodeine (INN), ethylmorphine, etorphine (INN), heroin, hydrocodone (INN), hydromorphone (INN), morphine, nicomorphine (INN), oxycodone (INN), oxymorphone (INN), pholcodine (INN),",293910
+293911,2007,"Concentrates of poppy straw; buprenorphine (INN), codeine, dihydrocodeine (INN), ethylmorphine, etorphine (INN), heroin, hydrocodone (INN), hydromorphone (INN), morphine, nicomorphine (INN), oxycodone (INN), oxymorphone (INN), pholcodine (INN),",293910
+293919,2002,Other,293910
+293919,2007,Alkaloids of opium (excl. of 2939.11) & their derivatives; salts thereof,293910
+293921,1996,Alkaloids of cinchona and their derivatives; salts thereof :-- Quinine and its salts,293920
+293921,2002,Quinine and its salts,293920
+293929,1996,Alkaloids of cinchona and their derivatives; salts thereof :-- Other,293920
+293929,2002,Other,293920
+293949,1996,Ephedrines and their salts :-- Other,293943
+293949,2002,Other,293943
+293949,2007,"Ephedrines & their salts, other than ephedrine, pseudoephedrine (INN) & cathine (INN)",293943
+293951,2002,Fenetylline (INN) and its salts,293950
+293951,2007,Fenetylline (INN) & its salts,293950
+293959,2002,Other,293950
+293959,2007,"Theophylline & aminophylline (theophylline-ethylenedia-mine) & their derivatives (excl. of 2939.51); salts thereof , n.e.s.",293950
+293990,1996,Other,293970
+293991,2002,"Cocaine, ecgonine, levometamfetamine, metamfetamine (INN), metamfetamine racemate; salts, esters and other derivatives thereof",293970
+293991,2007,"Cocaine, ecgonine, levometamfetamine, metamfetamine (INN), metamfetamine racemate; salts, esters & other derivatives thereof",293970
+293999,2002,Other,293970
+293999,2007,"Vegetable alkaloids, natural/reproduced by synthesis, & their salts, ethers, esters & other derivatives (excl. of 2939.11-2939.91)",293970
+300190,1996,Other,300110
+300190,2002,Other,300110
+300190,2007,"Glands&other organs for organo-therapeutic uses, dried, whether/not powdered; heparin&its salts; other human/animal substances prepared for therapeutic/prophylactic uses, n.e.s./incld.",300110
+300432,1996,Containing hormones or other products of heading No 29.37 but not containing antibiotics :-- Containing adrenal cortical hormones,300110
+300432,2002,"Containing corticosteroid hormones, their derivatives and  structural analogues",300110
+300432,2007,"Medicaments containing corticosteroid hormones, their derivatives & structural analogues, put up in measured doses/forms/packings for RS",300110
+300120,1996,Extracts of glands or other organs or of their secretions,300680
+300120,2002,Extracts of glands or other organs or of their secretions,300680
+300120,2007,Extracts of glands/of other organs/of their secretions,300680
+300210,1996,"Antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes",300680
+300210,2002,"Antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes",300680
+300210,2007,"Antisera & other blood fractions & modified immunological products, whether/not obt. by means of biotechnological processes",300680
+300220,1996,Vaccines for human medicine,300680
+300220,2002,Vaccines for human medicine,300680
+300220,2007,Vaccines for human medicine,300680
+300230,1996,Vaccines for veterinary medicine,300680
+300230,2002,Vaccines for veterinary medicine,300680
+300230,2007,Vaccines for veterinary medicine,300680
+300290,1996,Other,300680
+300290,2002,Other,300680
+300290,2007,"Human blood; animal blood prepared for therapeutic/prophylactic/diagnostic uses; toxins, cultures of micro-organisms (excl. yeasts) & similar products",300680
+300310,1996,"Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",300680
+300310,2002,"Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",300680
+300310,2007,"Medicaments containing penicillins/derivatives thereof with a penicillanic acid structure/streptomycins/their derivatives, not put up in measured doses/forms/packagings for RS",300680
+300320,1996,Containing other antibiotics,300680
+300320,2002,Containing other antibiotics,300680
+300320,2007,"Medicaments consisting of 2/more constituents, containing other antibiotics (excl. of 3003.10), not put up in measured doses/forms/packagings for RS",300680
+300331,1996,Containing hormones or other products of heading No. 29.37 but not containing antibiotics :-- Containing insulin,300680
+300331,2002,Containing insulin,300680
+300331,2007,"Medicaments containing insulin, not put up in measured doses/forms/packagings for RS",300680
+300339,1996,Containing hormones or other products of heading No. 29.37 but not containing antibiotics :-- Other,300680
+300339,2002,Other,300680
+300339,2007,"Medicaments containing hormones/other products of 29.37 but not containing antibiotics (excl. meds. containing insulin), not put up in measured doses/forms/packagings for RS",300680
+300340,1996,Containing alkaloids or derivatives thereof but not containing hormones or other products of heading No. 29.37 or antibiotics,300680
+300340,2002,Containing alkaloids or derivatives thereof but not containing hormones or other products of heading 29.37 or antibiotics,300680
+300340,2007,"Medicaments containing alkaloids/derivatives thereof but not containing hormones/other products of 29.37/antibiotics, not put up in measured doses/forms/packagings for RS",300680
+300390,1996,Other,300680
+300390,2002,Other,300680
+300390,2007,"Medicaments (excluding goods of heading 30.02, 30.05/30.06/of 3003.10-3003.40) consisting of two/more constituents which have been mixed together for therapeutic/prophylactic uses, not put up in measured doses/in forms/packings for retail sale",300680
+300410,1996,"Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",300680
+300410,2002,"Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",300680
+300410,2007,"Medicaments containing penicillins/derivatives thereof with a penicillanic acid structure/streptomycins/their derivatives, put up in measured doses/forms/packings for RS",300680
+300420,1996,Containing other antibiotics,300680
+300420,2002,Containing other antibiotics,300680
+300420,2007,"Medicaments containing other antibiotics (excl. of 3004.10), put up in measured doses/forms/packings for RS",300680
+300431,1996,Containing hormones or other products of heading No 29.37 but not containing antibiotics :-- Containing insulin,300680
+300431,2002,Containing insulin,300680
+300431,2007,"Medicaments containing insulin, put up in measured doses/forms/packings for RS",300680
+300439,1996,Containing hormones or other products of heading No 29.37 but not containing antibiotics :-- Other,300680
+300439,2002,Other,300680
+300439,2007,"Medicaments containing hormones/other products of 29.37 but not containing antibiotics, put up in measured doses/forms/packings for RS",300680
+300440,1996,"Containing alkaloids or derivatives thereof but not containing hormones, other products of heading No. 29.37 or antibiotics",300680
+300440,2002,"Containing alkaloids or derivatives thereof but not containing hormones, other products of heading 29.37 or antibiotics",300680
+300440,2007,"Medicaments containing alkaloids/derivatives thereof but not containing hormones/other products of 29.37/antibiotics, put up in measured doses/forms/packings for RS",300680
+300450,1996,Other medicaments containing vitamins or other products of heading No. 29.36,300680
+300450,2002,Other medicaments containing vitamins or other products of heading 29.36,300680
+300450,2007,"Medicaments containing vitamins/other products of 29.36 (excl. of 3004.10-3004.40), put up in measured doses/forms/packings for RS",300680
+300490,1996,Other,300680
+300490,2002,Other,300680
+300490,2007,"Medicaments (excluding goods of heading 30.02/30.05/30.06/3004.10-3004.50) consisting of mixed/unmixed products for therapeutic/prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems)/in f",300680
+300510,1996,Adhesive dressings and other articles having an adhesive layer,300680
+300510,2002,Adhesive dressings and other articles having an adhesive layer,
+300510,2007,Adhesive dressings & other articles having an adhesive layer,
+300590,1996,Other,
+300590,2002,Other,
+300590,2007,"Wadding, gauze, bandages & similar articles (eg. dressings, adhesive plasters, poultices), impregnated/coated with pharmaceutical substances/put up in forms/packings for retail sale for medical, surgical, dental/veterinary purposes(excl. of 300",
+300610,1996,"Sterile surgical catgut, similar sterile suture materials and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics",
+300610,2002,"Sterile surgical catgut, similar sterile suture materials and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics",
+300610,2007,"Sterile surgical catgut, similar sterile suture materials (including sterile absorbable surgical/dental yarns)&sterile tissue adhesives for surgical wound closure; sterile laminaria&sterile laminaria tents; sterile absorbable surgical/dental/ve",
+300620,1996,Blood-grouping reagents,
+300620,2002,Bloodgrouping reagents,
+300620,2007,Blood-grouping reagents,
+300630,1996,Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient,
+300630,2002,Opacifying preparations for Xray examinations; diagnostic reagents designed to be administered to the patient,
+300630,2007,Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient,
+300640,1996,Dental cements and other dental fillings; bone reconstruction cements,
+300640,2002,Dental cements and other dental fillings; bone reconstruction cements,
+300640,2007,Dental cements & other dental fillings; bone reconstruction cements,
+300650,1996,First-aid boxes and kits,
+300650,2002,Firstaid boxes and kits,
+300650,2007,First-aid boxes & kits,
+300660,1996,Chemical contraceptive preparations based on hormones or spermicides,
+300660,2002,"Chemical contraceptive preparations based on hormones, on other products of heading 29.37 or on spermicides",
+300660,2007,Chemical contraceptive preparations based on hormones/other products of 29.37/spermicides,
+310290,1996,"Other, including mixtures not specified in the foregoing subheadings",310270
+310290,2002,"Other, including mixtures not specified in the foregoing subheadings",310270
+310290,2007,"Mineral/chemical fertilisers, nitrogenous (excl. of 3102.10-3102.80), including mixtures not specified in the foregoing subheadings",310270
+310390,1996,Other,310320
+310390,2002,Other,310320
+310390,2007,"Mineral/chemical fertilisers, phosphatic(excl. of 3103.10)",310320
+310490,1996,Other,310410
+310490,2002,Other,310410
+310490,2007,"Mineral/chemical fertilisers, potassic(excl. of 3104.20 & 3104.30)",310410
+320630,1996,Pigments and preparations based on cadmium compounds,320649
+320630,2002,Pigments and preparations based on cadmium compounds,320649
+320643,1996,Other colouring matter and other preparations :-- Pigments and preparations based on hexacyanoferrates (ferrocyanides and ferricyanides),320649
+320643,2002,Pigments and preparations based on hexacyanoferrates (ferrocyanides and ferricyanides),320649
+330111,1996,Essential oils of citrus fruit :-- Of bergamot,330119
+330111,2002,Of bergamot,330119
+330114,1996,Essential oils of citrus fruit :-- Of lime,330119
+330114,2002,Of lime,330119
+330121,1996,Essential oils other than those of citrus fruit :-- Of geranium,330129
+330121,2002,Of geranium,330129
+330122,1996,Essential oils other than those of citrus fruit :-- Of jasmin,330129
+330122,2002,Of jasmin,330129
+330123,1996,Essential oils other than those of citrus fruit :-- Of lavender or of lavandin,330129
+330123,2002,Of lavender or of lavandin,330129
+330126,1996,Essential oils other than those of citrus fruit :-- Of vetiver,330129
+330126,2002,Of vetiver,330129
+340220,1996,Preparations put up for retail sale,340130
+340220,2002,Preparations put up for retail sale,340130
+340220,2007,"Surface-active preparations, washing preparations (incl. auxiliary washing preparations) & cleaning preparations, whether/not containing soap (excl. of 34.01/3402.11-3402.9), put up for RS",340130
+340490,1996,Other,340410
+340490,2002,Other,340410
+340490,2007,Artificial waxes & prepared waxes (excl. of  3404.20),340410
+370231,1996,"Other film, without perforations, of a width not exceeding 105 mm :-- For colour photography (polychrome)",370220
+370231,2002,For colour photography (polychrome),370220
+370231,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width not > 105 mm,for colour photography (polychrome)",370220
+370232,1996,"Other film, without perforations, of a width not exceeding 105 mm :-- Other, with silver halide emulsion",370220
+370232,2002,"Other, with silver halide emulsion",370220
+370232,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width not >105 mm, with silver halide emulsion",370220
+370239,1996,"Other film, without perforations, of a width not exceeding 105 mm :-- Other",370220
+370239,2002,Other,370220
+370239,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width not >105 mm (excl. of 3702.31 & 3702.32)",370220
+370241,1996,"Other film, without perforations, of a width exceeding     105 mm :-- Of a width exceeding 610 mm and of a length exceeding  200 m, for colour photography (polychrome)",370220
+370241,2002,"Of a width exceeding 610 mm and of a length exceeding   200 m, for colour photography (polychrome)",370220
+370241,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width exceeding 610mm&of a length exceeding 200 m, for colour photography (polychrome)",370220
+370242,1996,"Other film, without perforations, of a width exceeding     105 mm :-- Of a width exceeding 610 mm and of a length exceeding 200 m, other than for colour photography",370220
+370242,2002,"Of a width exceeding 610 mm and of a length exceeding   200 m, other than for colour photography",370220
+370242,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width > 610mm&of a length > 200 m, other than for colour photography",370220
+370243,1996,"Other film, without perforations, of a width exceeding     105 mm :-- Of a width exceeding 610 mm and of a length not exceeding 200 m",370220
+370243,2002,Of a width exceeding 610 mm and of a length not exceeding 200 m,370220
+370243,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width > 610mm&of a length not >200 m",370220
+370244,1996,"Other film, without perforations, of a width exceeding     105 mm :-- Of a width exceeding 105 mm but not exceeding 610 mm",370220
+370244,2002,Of a width exceeding 105 mm but not exceeding 610 mm,370220
+370244,2007,"Photographic film in rolls ( excl. film for X-ray),  without perforations, of a width > 105 mm but          not > 610 mm.",370220
+370292,1996,Other :-- Of a width not exceeding 16 mm and of a length exceeding     14 m,370291
+370590,1996,Other,370520
+370590,2002,Other,370520
+370590,2007,"Photographic plates & film, exposed&developed, other than cinematographic film (excl. of 3705.10)",370520
+380590,1996,Other,380520
+380590,2002,Other,380520
+380590,2007,Terpenic oils produced by the distillation/other treatment of coniferous woods; crude dipentene; sulphite turpentine&other crude para-cymene; pine oil containing alpha-terpineol as the main constituent.,380520
+380820,1996,Fungicides,380810
+380820,2002,Fungicides,380810
+380830,1996,"Herbicides, anti-sprouting products and plant-growth regulators",380810
+380830,2002,"Herbicides, antisprouting products and plantgrowth regulators",380810
+380840,1996,Disinfectants,380810
+380840,2002,Disinfectants,380810
+380850,2007,Goods specified in Subheading Note 1 to this Ch.,380810
+380890,1996,Other,380810
+380890,2002,Other,380810
+380891,2007,"Insecticides, put up in forms/packings for retail sale/as preparations/articles",380810
+380892,2007,"Fungicides, put up in forms/packings for retail sale/as preparations/articles",380810
+380893,2007,"Herbicides, anti-sprounting products&plant-growth regulators, put up in forms/packings for retail sale/as preparations/articles",380810
+380894,2007,"Disinfectants, put up in forms/packings for retail sale/as preparations/articles",380810
+380899,2007,"Rodenticides&other biocides, n.e.s.,put up in forms/packings for retail sale/as preparations/articles",380810
+381710,1996,Mixed alkylbenzenes,381700
+381720,1996,Mixed alkylnaphthalenes,381700
+382420,1996,"Naphthenic acids, their water-insoluble salts and their esters",382100
+382420,2002,"Naphthenic acids, their waterinsoluble salts and their esters",382100
+382471,1996,Mixtures containing perhalogenated derivatives of acyclic hydrocarbons containing two or more different halogens :-- Containing acyclic hydrocarbons perhalogenated only with fluorine and chlorine,382100
+382471,2002,Containing acyclic hydrocarbons perhalogenated only with fluorine and chlorine,382100
+382471,2007,"Mixtures containing chlorofluorocarbons (CFCs), whether/not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs)/hydrofluorocarbons (HFCs)",382100
+382472,2007,"Mixtures containing bromochlorodifluoromethane, bromotrifluoromethane/dibromotetrafluoroethanes",382100
+382473,2007,Mixtures containing hydrobromofluorocarbons (HBFCs),382100
+382474,2007,"Mixtures containing hydrochlorofluorocarbons (HCFCs), whether/not containing perfluorocarbons (PFCs)/hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs)",382100
+382475,2007,Mixtures containing carbon tetrachloride,382100
+382476,2007,"Mixtures containing 1,1,1-trichloroethane (methyl chloroform)",382100
+382477,2007,Mixtures containing bromomethane (methyl bromide)/bromochloromethane,382100
+382478,2007,"Mixtures containing perfluorocarbons (PFCs)/hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs)/hydrochlorofluorocarbons (HCFCs)",382100
+382479,1996,Mixtures containing perhalogenated derivatives of acyclic hydrocarbons containing two or more different halogens :-- Other,382100
+382479,2002,Other,382100
+382479,2007,"Mixtures containing halogenated derivatives of methane, ethane/propane (excl.of 3824.71 - 3824.78)",382100
+382481,2007,Mixtures&preparations containing oxirane (ethylene oxide),382100
+382482,2007,"Mixtures&preparations containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs)/polybrominated biphenyls (PBBs)",382100
+382483,2007,"Mixtures&preparations containing tris(2,3-dibromopropyl) phosphate",382100
+382510,2002,Municipal waste,382490
+382510,2007,Municipal waste,382490
+382520,2002,Sewage sludge,382490
+382520,2007,Sewage sludge,382490
+382530,2002,Clinical waste,382490
+382530,2007,Clinical waste,382490
+382541,2002,Halogenated,382490
+382541,2007,Halogenated waste organic solvents,382490
+382549,2002,Other,382490
+382549,2007,Waste organic solvents other than halogenated waste organic solvents,382490
+382550,2002,"Wastes of metal pickling liquors, hydraulic fluids, brake  fluids and antifreeze fluids",382490
+382550,2007,"Wastes of metal pickling liquors, hydraulic fluids, brake fluids & anti-freeze fluids",382490
+382561,2002,Mainly containing organic constituents,382490
+382561,2007,"Wastes from chemical/allied industries, mainly containing organic constituents, n.e.s. in Ch.38",382490
+382569,2002,Other,382490
+382569,2007,"Wastes from chemical/allied industries, n.e.s. in Ch.38",382490
+382590,2002,Other,382490
+382590,2007,"Residual products of the chemical/allied industries, n.e.s. in Ch.38",382490
+390770,2007,Poly(lactic acid),390799
+392041,1996,Of polymers of vinyl chloride :-- Rigid,392049
+392042,1996,Of polymers of vinyl chloride :-- Flexible,392049
+392043,2002,Containing by weight not less than 6 % of plasticisers,392049
+392043,2007,"Plates, sheets, film, foil&strip, of polymers of vinyl chloride,containing by weight not < 6% of plasticisers, non-cellular&not reinforcededed, laminated, supported/similarly combined with other materials(excl. self-adhesvie)",392049
+392079,1996,Of cellulose or its chemical derivatives :-- Of other cellulose derivatives,392072
+392079,2002,Of other cellulose derivatives,392072
+392079,2007,"Plates, sheets, film, foil & strip, of cellulose derivatives, n.e.s. in 39.20, non-cellular & not reinforcededed/laminated/supported/similarly combined with other materials (excl. self-adhesive)",392072
+392290,1996,Other,392210
+392290,2002,Other,392210
+392290,2007,"Bidets, lavatory pans, flushing cisterns & similar sanitary ware, of plastics",392210
+400910,1996,"Not reinforced or otherwise combined with other materials, without fittings",400911
+400920,1996,"Reinforced or otherwise combined only with metal, without fittings",400921
+400930,1996,"Reinforced or otherwise combined only with textile materials, without fittings",400931
+400940,1996,"Reinforced or otherwise combined with other materials, without fittings",400941
+400912,2002,With fittings,400950
+400912,2007,"Tubes, pipes & hoses, of vulcanised rubber other than hard rubber, not reinforcededed/othw. combined with other materials, with fittings (e.g., joints, elbows, flanges)",400950
+400922,2002,With fittings,400950
+400922,2007,"Tubes, pipes & hoses, of vulcanised rubber other than hard rubber, reinforcededed/othw. combined only with metal, with fittings (e.g., joints, elbows, flanges)",400950
+400932,2002,With fittings,400950
+400932,2007,"Tubes, pipes & hoses, of vulcanised rubber other than hard rubber, reinforcededed/othw. combined only with textile materials, with fittings (e.g., joints, elbows, flanges)",400950
+400942,2002,With fittings,400950
+400942,2007,"Tubes, pipes & hoses, of vulcanised rubber other than hard rubber, reinforcededed/othw. combined with other materials, with fittings (e.g., joints, elbows, flanges)",400950
+401019,1996,Conveyor belts or belting :-- Other,401013
+401019,2002,Other,401013
+401019,2007,"Conveyor belts/belting (excl. of 4010.11-4010.13), of vulanised rubber",401013
+401031,2002,"Endless transmission belts of trapezoidal crosssection     (V belts), Vribbed, of an outside circumference exceeding 60  cm but not exceeding 180 cm",401021
+401031,2007,"Endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference >60cm but not >180cm, of vulcanised rubber",401021
+401032,2002,"Endless transmission belts of trapezoidal crosssection     (Vbelts), other than Vribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm",401021
+401032,2007,"Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference >60cm but not >180cm, of vulcanised rubber",401021
+401033,2002,"Endless transmission belts of trapezoidal crosssection     (V belts), Vribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm",401022
+401033,2007,"Endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference >180cm but not >240cm, of vulcanised rubber",401022
+401034,2002,"Endless transmission belts of trapezoidal crosssection     (V belts), other than Vribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm",401022
+401034,2007,"Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference >180cm but not >240cm, of vulcanised rubber",401022
+401023,1996,"Transmission belts or belting :-- Endless synchronous belts, of a circumference exceeding 60 cm but not exceeding 150 cm",401035
+401024,1996,"Transmission belts or belting :-- Endless synchronous belts, of a circumference exceeding 150 cm but not exceeding 198 cm",401036
+401029,1996,Transmission belts or belting :-- Other,401039
+401161,2002,Of a kind used on agricultural or forestry vehicles and machines,401191
+401161,2007,"New pneumatic tyres, of rubber, having a herring-bone/similar tread, of a kind used on agricultural/forestry vehicles & machines",401191
+401162,2002,Of a kind used on construction or industrial handling vehicles and machines and having a rim size not exceeding 61cm,401191
+401162,2007,"New pneumatic tyres, of rubber, having a herring-bone/similar tread, of a kind used on construction/industrial handling vehicles & machines & having a rim size not >61cm",401191
+401163,2002,Of a kind used on construction or industrial handling vehicles and machines and having a rim size exceeding 61 cm,401191
+401163,2007,"New pneumatic tyres, of rubber, having a herring-bone/similar tread, of a kind used on construction/industrial handling vehicles & machines & having a rim size >61cm",401191
+401169,2002,Other,401191
+401169,2007,"New pneumatic tyres, of rubber, having a herring-bone/similar tread (excl. of 4011.61-4011.63)",401191
+401192,2002,Of a kind used on agricultural or forestry vehicles and machines,401199
+401192,2007,"New pneumatic tyres, of rubber (excl. those with herring-bone/similartread), of a kind used on agricultural/forestry vehicles & machines",401199
+401193,2002,Of a kind used on construction or industrial handling vehicles and machines and having a rim size not exceeding 61 cm,401199
+401193,2007,"New pneumatic tyres, of rubber (excl. those with herring-bone/similartread), of a kind used on construction/industrial handling vehicles & machines & having a rim size not >61cm",401199
+401194,2002,Of a kind used on construction or industrial handling vehicles and machines and having a rim size exceeding 61cm,401199
+401194,2007,"New pneumatic tyres, of rubber (excl. those with herring-bone/similartread), of a kind used on construction/industrial handling vehicles & machines & having a rim size >61cm",401199
+401211,2002,Of a kind used on motor cars (including station wagons and  racing cars),401210
+401211,2007,"Retreaded pneumatic tyres of rubber, of a kind used on motor cars (incl. station wagons & racing cars)",401210
+401212,2002,Of a kind used on buses or lorries,401210
+401212,2007,"Retreaded pneumatic tyres of rubber, of a kind used on buses/lorries",401210
+401213,2002,Of a kind used on aircraft,401210
+401213,2007,"Retreaded pneumatic tyres of rubber, of a kind used on aircraft",401210
+401219,2002,Other,401210
+401219,2007,Retreaded pneumatic tyres of rubber (excl. of 4012.11-4012.13),401210
+410120,2002,"Whole hides and skins, of a weight per skin not exceeding 8 kg when simply dried, 10 kg when drysalted, or 16 kg when fresh, wetsalted or otherwise preserved",410110
+410120,2007,"Whole bovine (incl. buffalo)/equine hides & skins, weight per skin not >8kg (simply dried)/10kg (dry-salted)/16kg (fresh/wet-salted/othw. preserved)",410110
+410121,1996,"Other hides and skins of bovine animals, fresh or wet-salted :-- Whole",410110
+410122,1996,"Other hides and skins of bovine animals, fresh or wet-salted :-- Butts and bends",410110
+410129,1996,"Other hides and skins of bovine animals, fresh or wet-salted :-- Other",410110
+410130,1996,"Other hides and skins of bovine animals, otherwise preserved",410110
+410140,1996,Hides and skins of equine animals,410110
+410150,2002,"Whole hides and skins, of a weight exceeding 16 kg",410110
+410150,2007,"Whole bovine (incl. buffalo)/equine hides & skins, weight >16kg(fresh/salted/dried/limed/pickled/othw. preserved but not tanned/parchment-dressed/further prepared), whether/not dehaired/split",410110
+410190,2002,"Other, including butts, bends and bellies",410110
+410190,2007,"Raw hides & skins of bovine (including buffalo)/equine animals (fresh/salted/dried/limed/ pickled/othw. preserved, but not tanned/parchment-dressed/further prepared), whether/not dehaired/split(excl. of 4101.20&4101.50)",410110
+410410,1996,"Whole bovine skin leather, of a unit surface area not exceeding 28 square feet (2.6 m2)",410110
+410411,2002,"Full grains, unsplit; grain splits",410110
+410411,2007,"Tanned/crust hides & skins of bovine (incl. buffalo)/equine animals, without hair on, in the wet state (incl. wet-blue), full grains, unsplit; grain splits but not further prepared",410110
+410419,2002,Other,410110
+410419,2007,"Tanned/crust hides & skins of bovine (incl. buffalo)/equine animals, without hair on, in the wet state (incl. wet-blue), whether/not split but not further prepared (excl. of 4104.11)",410110
+410421,1996,"Other bovine leather and equine leather, tanned or retanned but not further prepared, whether or not split :-- Bovine leather, vegetable pre-tanned",410110
+410422,1996,"Other bovine leather and equine leather, tanned or retanned but not further prepared, whether or not split :-- Bovine leather, otherwise pre-tanned",410110
+410429,1996,"Other bovine leather and equine leather, tanned or retanned but not further prepared, whether or not split :-- Other",410110
+410431,1996,"Other bovine leather and equine leather, parchment-dressed or prepared after tanning :-- Full grains and full grain splits",410110
+410439,1996,"Other bovine leather and equine leather, parchment-dressed or prepared after tanning :-- Other",410110
+410441,2002,"Full grains, unsplit; grain splits",410110
+410441,2007,"Tanned/crust hides & skins of bovine (incl. buffalo)/equine animals, without hair on, in the dry state (crust), full grains, unsplit; grain splits but not further prepared",410110
+410449,2002,Other,410110
+410449,2007,"Tanned/crust hides & skins of bovine (incl. buffalo)/equine animals, without hair on, in the dry state (crust), whether/not split but not further prepared (excl. of 4104.41)",410110
+410711,2002,"Full grains, unsplit",410110
+410711,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of bovine (incl. buffalo)/equine animals, without hair on, whole hides & skins, full grains, unsplit",410110
+410712,2002,Grain splits,410110
+410712,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of bovine (incl. buffalo)/equine animals, without hair on, whole hides & skins, grain splits",410110
+410719,2002,Other,410110
+410719,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of bovine (incl. buffalo)/equine animals, without hair on, whole hides & skins, n.e.s. in 41.07",410110
+410791,2002,"Full grains, unsplit",410110
+410791,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of bovine (incl. buffalo)/equine animals, without hair on, other than whole hides&skins, full grains, unsplit",410110
+410792,2002,Grain splits,410110
+410792,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of bovine (incl. buffalo)/equine animals, without hair on, other than whole hides & skins, grain splits",410110
+410799,2002,Other,410110
+410799,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of bovine (incl. buffalo)/equine animals, without hair on, n.e.s. in 41.07, incl. sides",410110
+410229,1996,Without wool on :-- Other,410221
+410229,2002,Other,410221
+410229,2007,"Raw skins of sheep/lambs (fresh/salted/dried/limed/pickled/othw. preserved, but not tanned/parchment-dressed/further prepared), split, other than those excld. by Note 1 (c) to this Ch..",410221
+410510,2002,In the wet state (including wetblue),410221
+410510,2007,"Tanned/crust skins of sheep/lambs, without wool on, in the wet state (incl. wet-blue), whether/not split but not further prepared",410221
+410511,1996,"Tanned or retanned but not further prepared, whether or not split :-- Vegetable pre-tanned",410221
+410512,1996,"Tanned or retanned but not further prepared, whether or not split :-- Otherwise pre-tanned",410221
+410519,1996,"Tanned or retanned but not further prepared, whether or not split :-- Other",410221
+410640,2002,Of reptiles,410320
+410640,2007,"Tanned/crust hides & skins of reptiles, whether/not split but not further prepared",410320
+410721,1996,Of reptiles :-- Vegetable pre-tanned,410320
+410729,1996,Of reptiles :-- Other,410320
+411330,2002,Of reptiles,410320
+411330,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of reptiles, without wool/hair on, whether/not split, other than leather of 41.14",410320
+410390,1996,Other,410330
+410390,2002,Other,410330
+410390,2007,"Raw hides&skins (fresh,/salted, dried, limed, pickled/othw. preserved, but not tanned, parchment-dressed/further prepared), whether/not dehaired/split, other than those excld. by Note 1 (b)/1 (c) to this Ch., n.e.s. in Ch 41",410330
+410631,2002,In the wet state (including wetblue),410330
+410631,2007,"Tanned/crust hides & skins of swine, without wool/hair on, in the wet state (incl. wet-blue) whether/not split but not further prepared",410330
+410632,2002,In the dry state (crust),410330
+410632,2007,"Tanned/crust hides & skins of swine, without wool/hair on, in the dry state (crust) whether/not split but not further prepared",410330
+410710,1996,Of swine,410330
+411320,2002,Of swine,410330
+411320,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of swine, without wool/hair on, whether/not split, other than leather of 41.14",410330
+410530,2002,In the dry state (crust),410520
+410530,2007,"Tanned/crust skins of sheep/lambs, without wool on, in the dry state (crust), whether/not split but not further prepared",410520
+411200,2002,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14.",410520
+411200,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of sheep/lamb, without wool on, whether/not split, other than leather of 41.14",410520
+410622,2002,In the dry state (crust),410620
+410622,2007,"Tanned/crust hides & skins of goats/kids, without wool/hair on, in the dry state (crust) whether/not split but not further prepared",410620
+411310,2002,Of goats or kids,410620
+411310,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of goats/kids, without wool/hair on, whether/not split, other than leather of 41.14",410620
+410611,1996,"Tanned or retanned but not further prepared, whether or not split :-- Vegetable pre-tanned",410621
+410612,1996,"Tanned or retanned but not further prepared, whether or not split :-- Otherwise pre-tanned",410621
+410619,1996,"Tanned or retanned but not further prepared, whether or not split :-- Other",410621
+410691,2002,In the wet state (including wetblue),410790
+410691,2007,"Tanned/crust hides & skins, n.e.s., without wool/hair on, in the wet state (incl. wet-blue) whether/not split but not further prepared",410790
+410692,2002,In the dry state (crust),410790
+410692,2007,"Tanned/crust hides & skins, n.e.s., without wool/hair on, in the dry state (crust) whether/not split but not further prepared",410790
+411390,2002,Other,410790
+411390,2007,"Leather further prepared after tanning/crusting, incl. parchment-dressed leather, of animals n.e.s. in 41.13, without wool/hair on, whether/not split, other than leather of 41.14",410790
+410800,1996,Chamois (including combination chamois) leather.,411410
+410900,1996,Patent leather and patent laminated leather; metallised leather.,411420
+411100,1996,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls.",411510
+411000,1996,"Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour.",411520
+420500,1996,Other articles of leather or of composition leather.,420400
+420500,2002,Other articles of leather or of composition leather.,420400
+420500,2007,"Articles of leather/of composition leather, n.e.s. in Ch 42",420400
+420610,1996,Catgut,420600
+420610,2002,Catgut,420600
+420690,1996,Other,420600
+420690,2002,Other,420600
+430120,1996,"Of rabbit or hare, whole, with or without head, tail or paws",430180
+430140,1996,"Of beaver, whole, with or without head, tail or paws",430180
+430150,1996,"Of musk-rat, whole, with or without head, tail or paws",430180
+430212,1996,"Whole skins, with or without head, tail or paws, not assembled :-- Of rabbit or hare",430219
+440210,2007,"Wood charcoal of bamboo(including shell/nut charcoal), whether/not agglomerated.",440200
+440290,2007,"Wood charcoal (including shell/nut charcoal, excl. of 440210), whether/not agglomerated.",440200
+440399,1996,Other,440349
+440399,2002,Other,440349
+440399,2007,"Wood, in the rough (excl. of 4403.10-4403.92), whether/not stripped of bark/sapwood/roughly squared",440349
+440721,2007,"Wood sawn/chipped lengthwise, sliced/peeled, whether/not planed, sanded/end-jointed, of a thickness >6mm, of Mahogany (Swietenia spp.)",440724
+440722,2007,"Wood sawn/chipped lengthwise, sliced/peeled, whether/not planed, sanded/end-jointed, of a thickness >6mm, of Virola, Imbuia&Balsa",440724
+440793,2007,"Maple (Acer spp.), sawn/chipped lengthwise, sliced/peeled, whether/not planed, sanded/end-jointed, of a thickness >6mm",440799
+440794,2007,"Cherry (Prunus spp.), sawn/chipped lengthwise, sliced/peeled, whether/not planed, sanded/end-jointed, of a thickness >6mm",440799
+440795,2007,"Ash(Fraxinus spp.), sawn/chipped lengthwise, sliced/peeled, whether/not planed, sanded/end-jointed, of a thickness >6mm",440799
+440831,1996,"Of tropical wood specified in Subheading Note 1 to this Chapter :-- Dark Red Meranti, Light Red Meranti and Meranti Bakau",440810
+440831,2002,"Dark Red Meranti, Light Red Meranti and Meranti Bakau",440810
+440831,2007,"Sheets for veneering (including those obtained by slicing laminated wood), for plywood/for similar laminated wood & other wood, sawn lengthwise, sliced/peeled, whether/not planed, sanded, spliced/end-jointed, of a thickness not> 6 mm, of Dark R",440810
+440839,1996,Of tropical wood specified in Subheading Note 1 to this Chapter :-- Other,440810
+440839,2002,Other,440810
+440839,2007,"Sheets for veneering (including those obtained by slicing laminated wood), for plywood/for similar laminated wood & other wood, sawn lengthwise, sliced/peeled, whether/not planed, sanded, spliced/end-jointed, of a thickness not> 6 mm, of  tropi",440810
+440890,1996,Other,440810
+440890,2002,Other,440810
+440890,2007,"Sheets for veneering (including those obtained by slicing laminated wood), for plywood/for similar laminated wood & other wood, sawn lengthwise, sliced/peeled, whether/not planed, sanded, spliced/end-jointed, of a thickness not> 6 mm (excl. of",440810
+441213,1996,"Plywood consisting solely of sheets of wood, each ply not exceeding 6 mm thickness :-- With at least one outer ply of tropical wood specified in Subheading Note 1 to this Chapter",440810
+441213,2002,With at least one outer ply of tropical wood specified in Subheading Note 1 to this Chapter,440810
+441219,1996,"Plywood consisting solely of sheets of wood, each ply not exceeding 6 mm thickness :-- Other",440810
+441219,2002,Other,440810
+441222,1996,"Other, with at least one outer ply of non-coniferous wood :-- With at least one ply of tropical wood specified in Subheading Note 1 to this Chapter",440810
+441222,2002,With at least one ply of tropical wood specified in Subheading Note 1 to this Chapter,440810
+441292,1996,Other :-- With at least one ply of tropical wood specified in Subheading Note 1 to this Chapter,440810
+441292,2002,With at least one ply of tropical wood specified in Subheading Note 1 to this Chapter,440810
+441293,1996,"Other, containing at least one layer of particle board",440810
+441293,2002,"Other, containing at least one layer of particle board",440810
+440921,2007,"Wood (including strips&friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded/the like) along any of its edges, ends/faces, whether/not planed/sanded/end-joint",440920
+440929,2007,"Wood (including strips&friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded/the like) along any of its edges, ends/faces, whether/not planed/sanded/end-joint",440920
+441112,2007,"Medium density of fibreboard of wood/other ligneous materials, whether/not bonded with resins/other organic substances, of a thkns not >5mm",441111
+441113,2007,"Medium density of fibreboard of wood/other ligneous materials, whether/not bonded with resins/other organic substances, of a thkns >5mm       but not >9mm",441111
+441114,2007,"Medium density of fibreboard of wood/other ligneous materials, whether/not bonded with resins/other organic substances, of a thkns >9mm",441111
+441119,1996,Fibreboard of a density exceeding 0.8 g/cm3 :-- Other,441111
+441119,2002,Other,441111
+441121,1996,Fibreboard of a density exceeding 0.5 g/cm3 but not exceeding 0.8 g/cm3 :-- Not mechanically worked or surface covered,441111
+441121,2002,Not mechanically worked or surface covered,441111
+441129,1996,Fibreboard of a density exceeding 0.5 g/cm3 but not exceeding 0.8 g/cm3 :-- Other,441111
+441129,2002,Other,441111
+441131,1996,Fibreboard of a density exceeding 0.35 g/cm3 but not exceeding 0.5 g/cm3 :-- Not mechanically worked or surface covered,441111
+441131,2002,Not mechanically worked or surface covered,441111
+441139,1996,Fibreboard of a density exceeding 0.35 g/cm3 but not exceeding 0.5 g/cm3 :-- Other,441111
+441139,2002,Other,441111
+441191,1996,Other :-- Not mechanically worked or surface covered,441111
+441191,2002,Not mechanically worked or surface covered,441111
+441192,2007,"Fibreboard of wood/other ligneous materials, whether/not bonded with resins/other organic substances, of a density > 0.8 g/cm¦",441111
+441193,2007,"Fibreboard of wood/other ligneous materials, whether/not bonded with resins/other organic substances, of a density >0.5g/cm¦ but not >0.8 g/cm¦",441111
+441194,2007,"Fibreboard of wood/other ligneous materials, whether/not bonded with resins/other organic substances, of a density not >0.5g/cm¦",441111
+441199,1996,Other,441111
+441199,2002,Other,441111
+441214,1996,"Plywood consisting solely of sheets of wood, each ply not exceeding 6 mm thickness :-- Other, with at least one outer ply of non-coniferous wood",441210
+441214,2002,"Other, with at least one outer ply of nonconiferous wood",441210
+441223,1996,"Other, with at least one outer ply of non-coniferous wood :-- Other, containing at least one layer of particle board",441210
+441223,2002,"Other, containing at least one layer of particle board",441210
+441229,1996,"Other, with at least one outer ply of non-coniferous wood :-- Other",441210
+441229,2002,Other,441210
+441232,2007,"Plywood, consisting solely of sheets of wood (other than bamboo), each ply not> 6 mm thkns, with at least one outer ply of non-coniferous wood",441210
+441239,2007,"Plywood, consisting solely of sheets of wood (other than bamboo,excl. of 4412.31 &4412.32), each ply not> 6 mm thkns",441210
+441294,2007,"Plywood, veneered panels&similar laminated wood, of blockboard, laminboard&battenboard",441210
+441299,1996,Other,441210
+441299,2002,Other,441210
+441299,2007,"Plywood, veneered panels&similar laminated wood, n.e.s.(excl. of 4412.10-4412.94)",441210
+441860,2007,Posts&beams,441830
+441871,2007,Assembled flooring panels for mosaic floors,441830
+441872,2007,"Assembled flooring panels, multilayer",441830
+441879,2007,Assembled flooring panels (excl. of 4418.71& 4418.72),441830
+441890,1996,Other,441830
+441890,2002,Other,441830
+441890,2007,"Builders' joinery&carpentry of wood, including cellular wood panels, assembled flooring panels, shingles&shakes(excl. of 4418.10-4418.79)",441830
+460199,1996,Other,460110
+460199,2002,Other,460110
+460199,2007,"Plaits & similar products of plaiting materials, whether/not assembled into strips; plaiting materials, plaits & similar products of plaiting materials, bound together in parallel strands/woven, in sheet form, whether/not being finished article",460110
+460121,2007,"Mats, matting&screens of vegetable materials, of bamboo",460120
+460122,2007,"Mats, matting&screens of vegetable materials, of rattan",460120
+460129,2007,"Mats, matting&screens of vegetable materials (excl. of 4601.21& 4601.22)",460120
+460211,2007,"Basketwork, wickerwork & other articles, made directly to shape from bamboo",460210
+460212,2007,"Basketwork, wickerwork & other articles, made directly to shape from rattan",460210
+460219,2007,"Basketwork, wickerwork & other articles, made directly to shape from vegetable materials other than bamboo&rattan; articles of loofah",460210
+470691,1996,Other :-- Mechanical,470630
+470691,2002,Mechanical,470630
+470691,2007,"Pulps of fibres derived from recovered (waste & scrap) paper/paperboard/of fibrous cellulosic material (excl. of 4706.10-4706.30), mechanical",470630
+470692,1996,Other :-- Chemical,470630
+470692,2002,Chemical,470630
+470692,2007,"Pulps of fibres derived from recovered (waste & scrap) paper/paperboard/of fibrous cellulosic material (excl. of 4706.10-4706.30), chemical",470630
+470693,1996,Other :-- Semi-chemical,470630
+470693,2002,Semichemical,470630
+470693,2007,"Pulps of fibres derived from recovered (waste & scrap) paper/paperboard/of fibrous cellulosic material (excl. of 4706.10-4706.30), semi-chemical",470630
+480560,1996,"Other paper and paperboard, weighing 150 g/m2 or less",480230
+480220,1996,"Paper and paperboard of a kind used as a base for photo-sensitive, heat-sensitive or electro-sensitive paper or paperboard",480251
+480220,2002,"Paper and paperboard of a kind used as a base for photosensitive, heatsensitive or electrosensitive paper or paperboard",480251
+480220,2007,"Paper & paperboard, uncoated, of a kind used as a base for photo-sensitive/heat-sensitive/electro-sensitive paper/paperboard",480251
+480240,1996,Wallpaper base,480251
+480240,2002,Wallpaper base,480251
+480240,2007,Wallpaper base,480251
+480252,1996,"Other paper and paperboard, not containing fibres obtained by a mechanical process or of which not more than 10 % by weight of the total fibre content consists of such fibres :-- Weighing 40 g/m2 or more but not more",480251
+480253,1996,"Other paper and paperboard, not containing fibres obtained by a mechanical process or of which not more than 10 % by weight of the total fibre content consists of such fibres :-- Weighing more than 150 g/m2",480251
+480254,2002,Weighing less than 40 g/m²,480251
+480254,2007,"Paper&paperboard, not containing fibres obtained by a mechanical/chemi-mechanical process/of which not > 10% by weight of the total fibre content consists of such fibres, weighing < 40 g/m¦",480251
+480255,2002,"Weighing 40 g/m² or more but not more than 150 g/m², in rolls",480251
+480255,2007,"Paper&paperboard, not containing fibres obtained by a mechanical/chemi-mechanical process/of which not > 10% by weight of the total fibre content consists of such fibres, weighing >40 g/m¦ but not >150 g/m¦, in rolls",480251
+480256,2002,"Weighing 40 g/m² or more but not more than 150 g/m², in sheets with one side not exceeding 435 mm and the other side not exceeding 297 mm in the unfolded state",480251
+480256,2007,"Paper&paperboard, not containing fibres obtained by a mechanical/chemi-mechanical process/of which not > 10% by weight of the total fibre content consists of such fibres, weighing > 40 g/m¦ but not > 150 g/m¦, in sheets with one side not > 435",480251
+480257,2002,"Other, weighing 40 g/m² or more but not more than 150 g/m²",480251
+480257,2007,"Paper&paperboard, not containing fibres obtained by a mechanical/chemi-mechanical process/of which not > 10% by weight of the total fibre content consists of such fibres, weighing > 40 g/m¦ but not > 150 g/m¦(excl. of 4802.54-4802.56)",480251
+480258,2002,Weighing more than 150 g/m²,480251
+480258,2007,"Paper&paperboard, not containing fibres obtained by a mechanical/chemi-mechanical process/of which not > 10% by weight of the total fibre content consists of such fibres, weighing > 150 g/m¦",480251
+480260,1996,"Other paper and paperboard, of which more than 10 % by weight of the total fibre content consists of fibres obtained by a mechanical process",480251
+480261,2002,In rolls,480251
+480261,2007,"Paper&paperboard, of which >10 % by weight of the total fibre content consists of fibres obtained by a mechanical/chemi-mechanical process, in rolls",480251
+480262,2002,In sheets with one side not exceeding 435 mm and the other side not exceeding 297 mm in the unfolded state,480251
+480262,2007,"Paper&paperboard, of which >10 % by weight of the total fibre content consists of fibres obtained by a mechanical/chemi-mechanical process, in sheets with one side not>435mm&the other side not>297mm in the unfolded state",480251
+480269,2002,Other,480251
+480269,2007,"Paper&paperboard, of which >10 % by weight of the total fibre content consists of fibres obtained by a mechanical/chemi-mechanical process (excl. of 4802.61& 4802.62), n.e.s.",480251
+480510,1996,Semi-chemical fluting paper (corrugating medium),480251
+480511,2002,Semichemical fluting paper,480251
+480511,2007,"Semi-chemicalfluting paper,uncoated, in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48",480251
+480512,2002,Straw fluting paper,480251
+480512,2007,"Straw fluting paper, uncoated, in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48",480251
+480519,2002,Other,480251
+480519,2007,"Fluting paper (excl. semi-chemical/straw fluting paper), uncoated, in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48",480251
+480521,1996,Multi-ply paper and paperboard :-- Each layer bleached,480251
+480522,1996,Multi-ply paper and paperboard :-- With only one outer layer bleached,480251
+480523,1996,"Multi-ply paper and paperboard :-- Having three or more layers, of which only the two outer layers are bleached",480251
+480524,2002,Weighing 150 g/m² or less,480251
+480524,2007,"Testliner (recycled liner board), uncoated, in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48, weighing 150g/m2/less",480251
+480525,2002,Weighing more than 150 g/m²,480251
+480525,2007,"Testliner (recycled liner board), uncoated, in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48, weighing >150g/m2",480251
+480529,1996,Multi-ply paper and paperboard :-- Other,480251
+480570,1996,"Other paper and paperboard, weighing more than 150 g/m2 but less than 225 g/m2",480251
+480580,1996,"Other paper and paperboard, weighing 225 g/m2 or more",480251
+480591,2002,Weighing 150 g/m² or less,480251
+480591,2007,"Uncoated paper & paperboard (excl. of 4801.00-4805.50), in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48, weighing 150g/m2",480251
+480592,2002,Weighing more than 150 g/m² but less than 225 g/m²,480251
+480592,2007,"Uncoated paper & paperboard (excl. of 4801.00-4805.50), in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48, weighing >150g/m2 but <225g/m2",480251
+480593,2002,Weighing 225 g/m² or more,480251
+480593,2007,"Uncoated paper & paperboard (excl. of 4801.00-4805.50), in rolls/sheets, not further worked than/further processed than as spec. in Note 3 to Ch.48, weighing 225g/m2/more",480251
+480700,2002,"Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surfacecoated or impregnated, whether or not internally reinforced, in rolls or sheets.",480251
+480700,2007,"Composite paper & paperboard (made by sticking flat layers of paper/paperboard together with an adhesive), not surface-coated/impregnated, whether/not internally reinforceded, in rolls/sheets",480251
+480710,1996,"Paper and paperboard, laminated internally with bitumen, tar or asphalt",480251
+480790,1996,Other,480251
+481011,1996,"Paper and paperboard of a kind used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical process or of which not more than 10% by weight of the total fibre..:--Weighing not more than 150g/m2",480251
+481012,1996,"Paper and paperboard of a kind used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical process or of which not more than 10% by weight of the total fibre..:--Weighing more than 150g/m2",480251
+481013,2002,In rolls,480251
+481013,2007,"Paper & paperboard of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-d",480251
+481014,2002,In sheets with one side not exceeding 435 mm and the other side not exceeding 297 mm in the unfolded state,480251
+481014,2007,"Paper & paperboard of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-d",480251
+481019,2002,Other,480251
+481019,2007,"Paper & paperboard of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-d",480251
+481021,1996,"Paper and paperboard of a kind used for writing, printing or other graphic purposes, of which more than 10% by weight of the total fibre content consists of fibres obtained by a mechanical process:--Light-weight coated paper",480251
+481022,2002,Lightweight coated paper,480251
+481022,2007,"Paper & paperboard of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-d",480251
+481029,1996,"Paper and paperboard of a kind used for writing, printing or other graphic purposes, of which more than 10% by weight of the total fibre content consists of fibres obtained by a mechanical process :-- Other",480251
+481029,2002,Other,480251
+481029,2007,"Paper & paperboard of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-d",480251
+481031,1996,"Kraft paper and paperboard...:-- Bleached uniformly throughout the mass and of which more than 95% by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing 150 g/m2 or less",480251
+481031,2002,"Bleached uniformly throughout the mass and of which more than 95 % by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing 150 g/m² or less",480251
+481031,2007,"Kraft paper & paperboard, other than that of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surf",480251
+481032,1996,"Kraft paper and paperboard...:-- Bleached uniformly throughout the mass and of which more than 95% by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing 150 g/m2",480251
+481032,2002,"Bleached uniformly throughout the mass and of which more than 95 % by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing more than 150 g/m²",480251
+481032,2007,"Kraft paper & paperboard, other than that of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surf",480251
+481039,1996,"Kraft paper and paperboard, other than that of a kind used for writing, printing or other graphic purposes :-- Other",480251
+481039,2002,Other,480251
+481039,2007,"Kraft paper & paperboard, other than that of a kind used for writing/printing/other graphic purposes, coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surf",480251
+481091,1996,Other paper and paperboard :-- Multi-ply,480251
+481092,2002,Multiply,480251
+481092,2007,"Paper & paperboard(excl. of 4810.13-4810.39), coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-decorated/printed, in rolls/rectan",480251
+481099,1996,Other paper and paperboard :-- Other,480251
+481099,2002,Other,480251
+481099,2007,"Paper & paperboard(excl. of 4810.13-4810.92), coated on one/both sides with kaolin (China clay)/other inorganic substances, with/without a binder, & with no other coating, whether/not surface-coloured, surface-decorated/printed, in rolls/rectan",
+481121,1996,Gummed or adhesive paper and paperboard :-- Self-adhesive,
+481129,1996,Gummed or adhesive paper and paperboard :-- Other,
+481131,1996,"Paper and paperboard coated, impregnated or covered with plastics (excluding adhesives) :-- Bleached, weighing more than 150 g/m2",
+481139,1996,"Paper and paperboard coated, impregnated or covered with plastics (excluding adhesives) :-- Other",
+481140,1996,"Paper and paperboard, coated, impregnated or covered with wax, paraffin wax, stearin, oil or glycerol",
+481141,2002,Self-adhesive,
+481141,2007,"Gummed/adhesive paper,paperboard,coated, impregnated, covered, surface-coloured, surface-decorated/printed, in rolls/rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03,48.09/48.10, self-a",
+481149,2002,Other,
+481149,2007,"Gummed/adhesive paper,paperboard (excl. of 4811.41), coated, impregnated, covered, surface-coloured, surface-decorated/printed, in rolls/rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03",
+481151,2002,"Bleached, weighing more than 150 g/m²",
+481151,2007,"Paper&paperboard coated/impregnated/ covered with plastics (excluding adhesives), bleached, weighing > 150 g/m¦, in rolls/rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03,48.09/48.10",
+481159,2002,Other,
+481159,2007,"Paper&paperboard coated/impregnated/ covered with plastics (excl. adhesives&of 4811.51), in rolls/rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03,48.09/48.10",
+482311,1996,"Gummed or adhesive paper, in strips or rolls :-- Self-adhesive",
+482312,2002,Selfadhesive,
+482319,1996,"Gummed or adhesive paper, in strips or rolls :-- Other",
+482319,2002,Other,
+482320,1996,Filter paper and paperboard,
+482320,2002,Filter paper and paperboard,
+482320,2007,"Filter paper & paperboard, cut to size/shape",
+482340,1996,"Rolls, sheets and dials, printed for self-recording apparatus",
+482340,2002,"Rolls, sheets and dials, printed for selfrecording apparatus",
+482340,2007,"Rolls, sheets & dials, printed for self-recording apparatus",
+482351,1996,"Other paper and paperboard, of a kind used for writing, printing or other graphic purposes :-- Printed, embossed or perforated",
+482359,1996,"Other paper and paperboard, of a kind used for writing, printing or other graphic purposes :-- Other",
+480990,1996,Other,480910
+480990,2002,Other,480910
+480990,2007,"Carbon paper, other copying/transfer papers (including coated/impregnated paper for duplicator stencils/offset plates), whether/not printed, in rolls/sheets.",480910
+481490,1996,Other,481430
+481490,2002,Other,481430
+481490,2007,Wallpaper&similar wall coverings(excl. of 4814.10&4814.20); window transparencies of paper.,481430
+481110,1996,"Tarred, bituminised or asphalted paper and paperboard",481500
+481110,2002,"Tarred, bituminised or asphalted paper and paperboard",481500
+481110,2007,"Tarred/bituminised/asphalted paper,paperboard,  coated, impregnated, covered, surface-coloured, surface-decorated/printed, in rolls/rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03,48.0",481500
+481160,2002,"Paper and paperboard, coated, impregnated or covered with wax, paraffin wax, stearin, oil or glycerol",481500
+481160,2007,"Paper&paperboard coated/impregnated/ covered with wax/paraffin wax/stearin/oil/glycero, in rolls/rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03,48.09/48.10",481500
+481190,1996,"Other paper, paperboard, cellulose wadding and webs of cellulose fibres",481500
+481190,2002,"Other paper, paperboard, cellulose wadding and webs of cellulose fibres",481500
+481190,2007,"Paper, paperboard, cellulose wadding&webs of cellulose fibres(excl. of 4811.10-4811.60), coated/impregnated/covered/surface-coloured/surface-decorated/printed, in rolls/rectangular (including square) sheets, of any size, other than goods of the",481500
+482390,1996,Other,481500
+482390,2002,Other,481500
+482390,2007,"Paper, paperboard, cellulose wadding&webs of cellulose fibres, cut to size/shape; other articles of paper pulp, paper, paperboard, cellulose wadding/webs of cellulose fibres, n.e.s. in Ch.48",481500
+481610,1996,Carbon or similar copying papers,481690
+481610,2002,Carbon or similar copying papers,481690
+481630,1996,Duplicator stencils,481690
+481630,2002,Duplicator stencils,481690
+482361,2007,"Trays, dishes, plates, cups&the like, of paper/paperboard, of bamboo",482360
+482369,2007,"Trays, dishes, plates, cups&the like, of paper/paperboard (excl. of 4823.61)",482360
+500310,1996,Not carded or combed,500300
+500310,2002,Not carded or combed,500300
+500390,1996,Other,500300
+500390,2002,Other,500300
+510211,2002,Of Kashmir (cashmere) goats,510210
+510211,2007,"Fine animal hair, not carded/combed, of Kashmir (cashmere) goats",510210
+510219,2002,Other,510210
+510219,2007,"Fine animal hair, not carded/combed, other than of Kashmir (cashmere) goats",510210
+510531,2002,Of Kashmir (cashmere) goats,510530
+510531,2007,"Fine animal hair, carded/combed, of Kashmir (cashmere) goats",510530
+510539,2002,Other,510530
+510539,2007,"Fine animal hair, carded/combed, other than of Kashmire (cashmere) goats",510530
+520859,1996,Printed :-- Other fabrics,520853
+520859,2002,Other fabrics,520853
+520859,2007,"Woven fabrics of cotton, containing 85%/more by weight of cotton, printed, weighing not>200 g/m¦",520853
+521019,1996,Unbleached :-- Other fabrics,521012
+521019,2002,Other fabrics,521012
+521019,2007,"Woven fabrics of cotton(excl. of 5210.11), containing <85% by weight of cotton, mixed mainly/solely with man-made fibres, unbleached, plain weave, weighing not >200g/m¦",521012
+521029,1996,Bleached :-- Other fabrics,521022
+521029,2002,Other fabrics,521022
+521029,2007,"Woven fabrics of cotton(excl. of 5210.21), containing <85% by weight of cotton, mixed mainly/solely with man-made fibres, bleached, plain weave, weighing not >200g/m¦",521022
+521049,1996,Of yarns of different colours :-- Other fabrics,521042
+521049,2002,Other fabrics,521042
+521049,2007,"Woven fabrics of cotton(excl. of 5210.41), containing <85% by weight of cotton, mixed mainly/solely with man-made fibres, of yarns of different colours, plain weave, weighing not >200g/m¦",521042
+521059,1996,Printed :-- Other fabrics,521052
+521059,2002,Other fabrics,521052
+521059,2007,"Woven fabrics of cotton(excl. of 5210.51), containing <85% by weight of cotton, mixed mainly/solely with man-made fibres, printed, plain weave, weighing not >200g/m¦",521052
+521121,1996,Bleached :-- Plain weave,521120
+521121,2002,Plain weave,521120
+521122,1996,"Bleached :-- 3-thread or 4-thread twill, including cross twill",521120
+521122,2002,"3thread or 4thread twill, including cross twill",521120
+521129,1996,Bleached :-- Other fabrics,521120
+521129,2002,Other fabrics,521120
+530410,1996,"Sisal and other textile fibres of the genus Agave, raw",530500
+530410,2002,"Sisal and other textile fibres of the genus Agave, raw",530500
+530490,1996,Other,530500
+530490,2002,Other,530500
+530511,1996,Of coconut (coir) :-- Raw,530500
+530511,2002,Raw,530500
+530519,1996,Of coconut (coir) :-- Other,530500
+530519,2002,Other,530500
+530521,1996,Of abaca :-- Raw,530500
+530521,2002,Raw,530500
+530529,1996,Of abaca :-- Other,530500
+530529,2002,Other,530500
+530590,2002,Other,530500
+530591,1996,Other :-- Raw,530500
+530599,1996,Other,530500
+530830,1996,Paper yarn,530890
+540211,2007,"High tenacity yarn other than textured yarn/sewing thread, of aramids, not put up for retail sale",540210
+540219,2007,"High tenacity yarn other than textured yarn/sewing thread, of nylon/other polyamides (excl. of 5402.11), not put up for retail sale",540210
+540234,2007,"Textured yarn other than sewing thread, of polypropylene, not put up for retail sale",540239
+540242,1996,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre :-- Of polyesters, partially oriented",540241
+540242,2002,"Of polyesters, partially oriented",540241
+540243,1996,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre :-- Of polyesters, other",540241
+540243,2002,"Of polyesters, other",540241
+540244,2007,"Yarn other than high tenacity/textured yarn (excl. sewing thread), single/untwisted/with a twist not >50 turns per metre, elastomeric, not put up for retail sale",540241
+540245,2007,"Yarn other than high tenacity/textured yarn (excl. sewing thread), single/untwisted/with a twist not >50 turns per metre, of nylon/other polyamides, not put up for retail sale",540241
+540246,2007,"Yarn other than high tenacity/textured yarn (excl. sewing thread), single/untwisted/with a twist not >50 turns per metre, of polyesters, partially oriented, not put up for retail sale",540241
+540247,2007,"Yarn other than high tenacity/textured yarn (excl. sewing thread; excl. of 5412.46), single/untwisted/with a twist not >50 turns per metre, of polyesters, not put up for retail sale",540241
+540248,2007,"Yarn other than high tenacity/textured yarn (excl. sewing thread), single/untwisted/with a twist not >50 turns per metre, of polypropylene, not put up for retail sale",540241
+540249,1996,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre :-- Other",540241
+540249,2002,Other,540241
+540249,2007,"Yarn other than high tenacity/textured yarn (excl. sewing thread,excl .of 5402.44-5412.48), single/untwisted/with a twist not >50 turns per metre, not put up for retail sale",540241
+540331,1996,"Other yarn, single :-- Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre",540320
+540331,2002,"Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre",540320
+540331,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10), single, of viscose rayon, untwisted/with a twist not >120 turns per metre, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540332,1996,"Other yarn, single :-- Of viscose rayon, with a twist exceeding 120 turns per metre",540320
+540332,2002,"Of viscose rayon, with a twist exceeding 120 turns per metre",540320
+540332,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10), single, of viscose rayon, untwisted/with a twist >120 turns per metre, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540333,1996,"Other yarn, single :-- Of cellulose acetate",540320
+540333,2002,Of cellulose acetate,540320
+540333,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10), single, of cellulose acetate, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540339,1996,"Other yarn, single :-- Other",540320
+540339,2002,Other,540320
+540339,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10,5403.31-5403.33), single, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540341,1996,"Other yarn, multiple (folded) or cabled :-- Of viscose rayon",540320
+540341,2002,Of viscose rayon,540320
+540341,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10), mult./cab., of viscose rayon, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540342,1996,"Other yarn, multiple (folded) or cabled :-- Of cellulose acetate",540320
+540342,2002,Of cellulose acetate,540320
+540342,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10), mult./cab., of cellulose acetate, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540349,1996,"Other yarn, multiple (folded) or cabled :-- Other",540320
+540349,2002,Other,540320
+540349,2007,"Artificial filament yarn (other than sewing thread,excl. of 5403.10, 5403.41&5403.42), mult./cab., of cellulose acetate, incl. artificial monofilament of <67dtx., not put up for retail sale",540320
+540411,2007,"Synthetic monofilament of 67dtx./more & of which no cross-sectional dim. exceeds 1mm, elastomeric",540410
+540412,2007,"Synthetic monofilament, of polypropylene, of 67 decitex/more & of which no cross-sectional dimension exceeds 1 mm; strip & the like (eg. artificial straw) of synthetic textile materials of an apparent width not > 5 mm; other than elastomeric.",540410
+540419,2007,"Synthetic monofilament, other than of polypropylene/elastomeric, of 67 decitex/more & of which no cross-sectional dimension exceeds 1 mm; strip & the like (eg. artificial straw) of synthetic textile materials of an apparent width not > 5 mm.",540410
+540610,1996,Synthetic filament yarn,540600
+540610,2002,Synthetic filament yarn,540600
+540620,1996,Artificial filament yarn,540600
+540620,2002,Artificial filament yarn,540600
+550140,2007,"Synthetic filament tow, of polypropylene",550190
+550311,2007,"Synthetic staple fibres, of aramids, of nylon/other polyamides; not carded, combed/othw. processed for spinning.",550310
+550319,2007,"Synthetic staple fibres, other than of aramid, but of nylon/other polyamides; not carded, combed/othw. processed for spinning.",550310
+551323,1996,Dyed :-- Other woven fabrics of polyester staple fibres,551322
+551323,2002,Other woven fabrics of polyester staple fibres,551322
+551323,2007,"Dyed Woven fabrics of synthetic, polyester staple fibres, other than of plain weave,  containing less than 85 % by weight of such fibres, mixed mainly/solely with cotton, of a weight not > 170 g/m2.",551322
+551332,1996,"Of yarns of different colours :-- 3-thread or 4-thread twill, including cross twill, of polyester staple fibres",551339
+551332,2002,"3thread or 4thread twill, including cross twill, of polyester staple fibres",551339
+551333,1996,Of yarns of different colours :-- Other woven fabrics of polyester staple fibres,551339
+551333,2002,Other woven fabrics of polyester staple fibres,551339
+551342,1996,"Printed :-- 3-thread or 4-thread twill, including cross twill, of polyester staple fibres",551349
+551342,2002,"3thread or 4thread twill, including cross twill, of polyester staple fibres",551349
+551343,1996,Printed :-- Other woven fabrics of polyester staple fibres,551349
+551343,2002,Other woven fabrics of polyester staple fibres,551349
+551419,1996,Unbleached or bleached :-- Other woven fabrics,551413
+551419,2002,Other woven fabrics,551413
+551419,2007,"Unbleached/bleached Woven fabrics of synthetic staple fibres, other than of plain weave,and of 3/4 thread twill/cross twill,containing less than 85 % by weight of such fibres, mixed mainly/solely with cotton, of a weight exceeding 170 g/m2.",551413
+551431,1996,"Of yarns of different colours :-- Of polyester staple fibres, plain weave",551430
+551431,2002,"Of polyester staple fibres, plain weave",551430
+551432,1996,"Of yarns of different colours :-- 3-thread or 4-thread twill, including cross twill, of polyester staple fibres",551430
+551432,2002,"3thread or 4thread twill, including cross twill, of polyester staple fibres",551430
+551433,1996,Of yarns of different colours :-- Other woven fabrics of polyester staple fibres,551430
+551433,2002,Other woven fabrics of polyester staple fibres,551430
+551439,1996,Of yarns of different colours :-- Other woven fabrics,551430
+551439,2002,Other woven fabrics,551430
+551599,1996,Other woven fabrics :-- Other,551592
+551599,2002,Other,551592
+551599,2007,"Woven fabrics of synthetic staple fibres,n.e.s. in 55.12 -55.15",551592
+560490,1996,Other,560420
+560490,2002,Other,560420
+560490,2007,"Other type of rubber thread & cord, textile covered",560420
+560730,1996,Of abaca (Manila hemp or Musa textilis Nee) or other hard (leaf) fibres,560790
+570251,1996,"Other, not of pile construction, not made up :-- Of wool or fine animal hair",570250
+570251,2002,Of wool or fine animal hair,570250
+570252,1996,"Other, not of pile construction, not made up :-- Of man-made textile materials",570250
+570252,2002,Of manmade textile materials,570250
+570259,1996,"Other, not of pile construction, not made up :-- Of other textile materials",570250
+570259,2002,Of other textile materials,570250
+580310,1996,Of cotton,580300
+580310,2002,Of cotton,580300
+580390,1996,Of other textile materials,580300
+580390,2002,Of other textile materials,580300
+590491,1996,Other :-- With a base consisting of needleloom felt or nonwovens,590490
+590492,1996,Other :-- With other textile base,590490
+600240,2002,Containing by weight 5 % or more of elastomeric yarn but not containing rubber thread,600210
+600240,2007,"Knitted/crocheted fabrics of a width not > 30 cm, containing by weight 5 %/more of elastomeric yarn but not containing rubber thread, other than those of heading 60.01.",600210
+600290,2002,Other,600210
+600290,2007,"Other Knitted/crocheted fabrics of a width not > 30 cm, other than those of heading 60.01 & 6002.40",600210
+600310,2002,Of wool or fine animal hair,600220
+600310,2007,"Knitted/crocheted fabrics of wool/fine animal hair, a width not > 30 cm, other than those of heading 60.01/60.02.",600220
+600320,2002,Of cotton,600220
+600320,2007,"Knitted/crocheted fabrics of cotton, a width not > 30 cm, other than those of heading 60.01/60.02.",600220
+600330,2002,Of synthetic fibres,600220
+600330,2007,"Knitted/crocheted fabrics of synthetic fibres, a width not > 30 cm, other than those of heading 60.01/60.02.",600220
+600340,2002,Of artificial fibres,600220
+600340,2007,"Knitted/crocheted fabrics of artificial fibres, a width not > 30 cm, other than those of heading 60.01/60.02.",600220
+600390,2002,Other,600220
+600390,2007,"Knitted/crocheted fabrics other than of wool/fine animal hair/cotton/synthetic fibres/ artificial fibres, of a width not > 30 cm, other than those of heading 60.01/60.02.",600220
+600410,2002,Containing by weight 5 % or more of elastomeric yarn but not containing rubber thread,600230
+600410,2007,"Knitted/crocheted fabrics of a width >30cm, containing by weight 5%/more of elastomeric yarn/rubber thread but not containing rubbr thread (excl. of 60.01)",600230
+600490,2002,Other,600230
+600490,2007,"Knitted/crocheted fabrics of a width >30cm, containing by weight 5%/more of elastomeric yarn/rubber thread (excl. of 60.01 & 6004.10)",600230
+600521,2002,Unbleached or bleached,600242
+600521,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of cotton, unbleached/bleached",600242
+600522,2002,Dyed,600242
+600522,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of cotton, dyed",600242
+600523,2002,Of yarns of different colours,600242
+600523,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of cotton, of yarns of different colours",600242
+600524,2002,Printed,600242
+600524,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of cotton, printed",600242
+600531,2002,Unbleached or bleached,600243
+600531,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of synthetic fibres, unbleached/bleached",600243
+600532,2002,Dyed,600243
+600532,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of synthetic fibres, dyed",600243
+600533,2002,Of yarns of different colours,600243
+600533,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of synthetic fibres, of yarns of different colours",600243
+600534,2002,Printed,600243
+600534,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of synthetic fibres, printed",600243
+600541,2002,Unbleached or bleached,600243
+600541,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of artificial fibres, unbleached/bleached",600243
+600542,2002,Dyed,600243
+600542,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of artificial fibres, dyed",600243
+600543,2002,Of yarns of different colours,600243
+600543,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of artificial fibres, of yarns of different colours",600243
+600544,2002,Printed,600243
+600544,2007,"Warp knit fabrics. incl. those made on galloon knitting machines (excl. of 60.01-60.04), of artificial fibres, printed",600243
+600621,2002,Unbleached or bleached,600292
+600621,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of cotton, unbleached/bleached",600292
+600622,2002,Dyed,600292
+600622,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of cotton, dyed",600292
+600623,2002,Of yarns of different colours,600292
+600623,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of cotton, of yarns of different colours",600292
+600624,2002,Printed,600292
+600624,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of cotton, printed",600292
+600631,2002,Unbleached or bleached,600293
+600631,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of synthetic fibres, unbleached/bleached",600293
+600632,2002,Dyed,600293
+600632,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of synthetic fibres, dyed",600293
+600633,2002,Of yarns of different colours,600293
+600633,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of synthetic fibres, of yarns of different colours",600293
+600634,2002,Printed,600293
+600634,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of synthetic fibres, printed",600293
+600641,2002,Unbleached or bleached,600293
+600641,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of artificial fibres, unbleached/bleached",600293
+600642,2002,Dyed,600293
+600642,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of artificial fibres, dyed",600293
+600643,2002,Of yarns of different colours,600293
+600643,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of artificial fibres, of yarns of different colours",600293
+600644,2002,Printed,600293
+600644,2007,"Knitted/crocheted fabrics, n.e.s. in Ch.60, of artificial fibres, printed",600293
+600249,1996,"Other fabrics, warp knit (including those made on galloon knitting machines) :-- Other",600590
+600291,1996,Other :-- Of wool or fine animal hair,600610
+600299,1996,Other,600690
+610190,1996,Of other textile materials,610110
+610190,2002,Of other textile materials,610110
+610190,2007,"Men's/boys' overcoats, car-coats, capes, cloaks, anoraks (incl. ski-jackets), wind-cheaters, wind-jackets & similar articles of other textile materials, other than of cotton/man-made fibres, knitted/crocheted, other than those of heading 61.03.",610110
+610311,1996,Suits :-- Of wool or fine animal hair,610310
+610311,2002,Of wool or fine animal hair,610310
+610312,1996,Suits :-- Of synthetic fibres,610310
+610312,2002,Of synthetic fibres,610310
+610319,1996,Suits :-- Of other textile materials,610310
+610319,2002,Of other textile materials,610310
+610329,1996,Suits :-- Of other textile materials,610321
+610329,2002,Of other textile materials,610321
+610329,2007,"Men's/boys' ensembles, of other textile materials other than of cotton & synthetic fibres, knitted/crocheted.",610321
+610411,1996,Suits :-- Of wool or fine animal hair,610419
+610411,2002,Of wool or fine animal hair,610419
+610412,1996,Suits :-- Of cotton,610419
+610412,2002,Of cotton,610419
+610429,1996,Ensembles :-- Of other textile materials,610421
+610429,2002,Of other textile materials,610421
+610429,2007,"Women's/girls' ensembles of other textile materials, other than of cotton/synthetic fibres, knitted/crocheted.",610421
+610799,1996,Other :-- Of other textile materials,610792
+610799,2002,Of other textile materials,610792
+610799,2007,"Men's/boys' bathrobes, dressing gowns & similar articles, of other textile materials, not of cotton, knitted/crocheted.",610792
+611011,2002,Of wool,611010
+611011,2007,"Jerseys, pullovers, cardigans, waist-coats & similar articles, knitted/crocheted, of wool",611010
+611012,2002,Of Kashmir (cashmere) goats,611010
+611012,2007,"Jerseys, pullovers, cardigans, waist-coats & similar articles, knitted/crocheted, of Kashmir (cashmere) goats",611010
+611019,2002,Other,611010
+611019,2007,"Jerseys, pullovers, cardigans, waist-coats & similar articles, knitted/crocheted, of fine animal hair other than of Kashmir (cashmere) goats",611010
+611190,1996,Of other textile materials,611110
+611190,2002,Of other textile materials,611110
+611190,2007,"Babies' garments & clothing accessories, of other textile materials, other than of cotton/synthetic fibres, knitted/crocheted.",611110
+611510,2007,"Graduated compression hosiery (eg. stockings for varicose veins) & footwear without applied soles, knitted/crocheted.",611490
+611511,1996,"Panty hose and tights :- Panty hose and tights :-- Of synthetic fibres, measuring per single yarn less than 67 decitex",611490
+611511,2002,"Of synthetic fibres, measuring per single yarn less than 67 decitex",611490
+611512,1996,"Panty hose and tights :- Panty hose and tights :-- Of synthetic fibres, measuring per single yarn 67 decitex or more",611490
+611512,2002,"Of synthetic fibres, measuring per single yarn 67 decitex or more",611490
+611519,1996,Panty hose and tights :-- Of other textile materials,611490
+611519,2002,Of other textile materials,611490
+611520,1996,"Women's full-length or knee-length hosiery, measuring per single yarn less than 67 decitex",611490
+611520,2002,"Women's fulllength or kneelength hosiery, measuring per single yarn less than 67 decitex",611490
+611521,2007,"Panty hose, tights, stockings, socks & other hosiery, & footwear without applied soles, of synthetic fibres, measuring per single yarn less than 67 decitex, knitted/crocheted.",611490
+611522,2007,"Panty hose, tights, stockings, socks & other hosiery, & footwear without applied soles, of synthetic fibres, measuring per single yarn 67 decitex/more, knitted/crocheted.",611490
+611529,2007,"Panty hose, tights, stockings, socks & other hosiery, & footwear without applied soles, of other textile materials, other than of synthetic fibres, knitted/crocheted.",611490
+611530,2007,"Other women's full-length/knee-length hosiery, measuring per single yarn less than 67 decitex, knitted/crocheted.",611490
+611591,1996,Other :-- Of wool or fine animal hair,611490
+611591,2002,Of wool or fine animal hair,611490
+611592,1996,Other :-- Of cotton,611490
+611592,2002,Of cotton,611490
+611593,1996,Other :-- Of synthetic fibres,611490
+611593,2002,Of synthetic fibres,611490
+611594,2007,"Other n.e.s. in 61.15, knitted/crocheted, of wool/fine animal hair.",611490
+611595,2007,"Other n.e.s. in 61.15, knitted/crocheted, of cotton.",611490
+611596,2007,"Other n.e.s. in 61.15, knitted/crocheted, of synthetic fibres.",611490
+611599,1996,Other :-- Of other textile materials,611490
+611599,2002,Of other textile materials,611490
+611599,2007,"Other n.e.s. in 61.15, knitted/crocheted, of other textile materials.",611490
+611780,1996,Other accessories,611720
+611780,2002,Other accessories,611720
+611780,2007,"Other made up clothing accessories, other than shawls/scarve/mufflers/mantillas/veils, knitted/crocheted;",611720
+620329,1996,Ensembles :-- Of other textile materials,620321
+620329,2002,Of other textile materials,620321
+620329,2007,"Men's/boys' ensembles (excl. knitted/crocheted), of other textile materials, other than of synthetic fibres/cotton.",620321
+620590,1996,Of other textile materials,620510
+620590,2002,Of other textile materials,620510
+620590,2007,"Men's/boys' shirts (exclud. knitted/crocheted), of other textile materials, other than of cotton/man-made fibres.",620510
+620799,1996,Other :-- Of other textile materials,620792
+620799,2002,Of other textile materials,620792
+620799,2007,"Men's/boys' singlets & other vests, bathrobes, dressing gowns & similar articles (excl. knitted/crocheted), of other textil materials, not of cotton",620792
+620990,1996,Of other textile materials,620910
+620990,2002,Of other textile materials,620910
+620990,2007,"Babies' garments & clothing accessories (excl. knitted/crocheted), of other textile materials, other than of synthetic Fibres/cotton.",620910
+621139,1996,"Other garments, men's or boys' :-- Of other textile materials",621131
+621139,2002,Of other textile materials,621131
+621139,2007,"Track suits (excl. knitted/crocheted), men's/boys'; other garments, n.e.s. (excl. knitted/crocheted), men's/boys', of other textile materials, other than of cotton/man-made fibres.",621131
+621390,1996,Of other textile materials,621310
+621390,2002,Of other textile materials,621310
+621390,2007,"Handkerchiefs, of other textile materials, not of cotton.",621310
+630259,1996,Other table linen :-- Of other textile materials,630252
+630259,2002,Of other textile materials,630252
+630259,2007,"Table linen (excl. knitted/crocheted), of other textile materials, other than of man-made fibres/cotton",630252
+630299,1996,Other :-- Of other textile materials,630292
+630299,2002,Of other textile materials,630292
+630299,2007,"Toilet linen & kitchen linen of other textile materials, other than of terry fabrics/man-made fibres/cotton.",630292
+630319,1996,Knitted or crocheted :-- Of other textile materials,630311
+630319,2002,Of other textile materials,630311
+630319,2007,"Curtains (incl. drapes) & interior blinds, knitted/crocheted; curtain/bed valances, knitted/crocheted, of other textile materials, other than of synthetic fibres",630311
+630619,1996,"Tarpaulins, awnings and sunblinds :-- Of other textile materials",630611
+630619,2002,Of other textile materials,630611
+630619,2007,"Tarpaulins, awnings & sunblinds, of other textile materials, other than of synthetic fibres",630611
+630629,1996,Tents :-- Of other textile materials,630621
+630629,2002,Of other textile materials,630621
+630629,2007,"Tents, Of other textile materials, other than of synthetic fibres",630621
+630631,1996,Sails :-- Of synthetic fibres,630630
+630631,2002,Of synthetic fibres,630630
+630639,1996,Sails :-- Of other textile materials,630630
+630639,2002,Of other textile materials,630630
+630641,1996,Pneumatic mattresses :-- Of cotton,630640
+630641,2002,Of cotton,630640
+630649,1996,Pneumatic mattresses :-- Of other textile materials,630640
+630649,2002,Of other textile materials,630640
+640199,1996,Other footwear :-- Other,640191
+640199,2002,Other,640191
+640199,2007,"Other Waterproof footwear with outer soles & uppers of rubber/plastics (excld. of 6401.10), other n.e.s. in 64.01",640191
+640291,1996,Other footwear :-- Covering the ankle,640230
+640291,2002,Covering the ankle,640230
+640291,2007,"Other footwear with outer soles & uppers of rubber/plastics, covering the ankle.",640230
+640299,1996,Other footwear :-- Other,640230
+640299,2002,Other,640230
+640299,2007,"Other footwear with outer soles & uppers of rubber/plastics, not covering the ankle.",640230
+640391,1996,Other footwear :-- Covering the ankle,640330
+640391,2002,#NAME?,640330
+640391,2007,"Other footwear without outer soles of  leather, covering the ankle.",640330
+640399,1996,Other footwear :-- Other,640330
+640399,2002,#NAME?,640330
+640399,2007,"Other footwear without  outer soles of  leather, not covering the ankle.",640330
+650590,1996,Other,650300
+650590,2002,Other,650300
+650590,2007,"Other hats & other headgear, knitted/crocheted,/made up from lace, felt/other textile fabric, whether/not lined/trimmed; other than hair-nets.",650300
+650699,1996,Other :-- Of other materials,650692
+650699,2002,Of other materials,650692
+650699,2007,"Headgear, other than safety headgear, of other materials, other than of rubber/plastics, whether/not PURS/not lined/trimmed (excl. of 6506.10)",650692
+660390,1996,Other,660310
+660390,2002,Other,660310
+660390,2007,"Other parts, trimmings & accessories of articles of heading 66.01/66.02., other than umbrella frames, incl. frames mounted on shafts (sticks)",660310
+680229,1996,"Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface :-- Other stone",680222
+680229,2002,Other stone,680222
+680229,2007,"Worked monumental/building stone & articles thereof (excl. goods of 68.01), simply cut/sawn, with a flat/even surface (excl. of 6802.10), of other stone, other than of granite/marble/travertine/alabaster",680222
+681120,1996,"Other sheets, panels, tiles and similar articles",681110
+681120,2002,"Other sheets, panels, tiles and similar articles",681110
+681130,1996,"Tubes, pipes and tube or pipe fittings",681110
+681130,2002,"Tubes, pipes and tube or pipe fittings",681110
+681140,2007,"Articles of asbestos-cement, of cellulose fibre-cement/the like, containing asbestos.",681110
+681181,2007,"Corrugated sheets, not containing asbestos.",681110
+681182,2007,"Other sheets, panels, tiles & similar articles, other than corrugated sheets, not containing asbestos.",681110
+681183,2007,"Tubes, pipes & tube/pipe fittings, other than other sheets, panels, tiles & corrugated sheets, not containing asbestos.",681110
+681189,2007,"Other articles of asbestos-cement, of cellulose fibre-cement/the like, not containing asbestos, other than corrugated sheets/tubes/pipes/pipe fittings.",681110
+681190,1996,0ther articles,681110
+681190,2002,Other articles,681110
+681210,1996,Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate,681250
+681220,1996,Yarn and thread,681250
+681230,1996,"Cords and string, whether or not plaited",681250
+681240,1996,Woven or knitted fabric,681250
+681260,1996,"Paper, millboard and felt",681250
+681260,2002,"Paper, millboard and felt",681250
+681270,1996,"Compressed asbestos fibre jointing, in sheets or rolls",681250
+681270,2002,"Compressed asbestos fibre jointing, in sheets or rolls",681250
+681280,2007,"Fabricated asbestos fibres; mixtures with a basis of asbestos/with a basis of asbestos & magnesium carbonate; articles of such mixtures/of asbestos (eg. thread, woven fabric, clothing, headgear, footwear, gaskets), whether/not reinforcededed, o",681250
+681290,1996,Other,681250
+681290,2002,Other,681250
+681291,2007,"Other fabricated asbestos fibres; mixtures with a basis of asbestos/with a basis of asbestos & magnesium carbonate; articles of such mixtures/of asbestos (eg. thread, woven fabric, clothing, headgear, footwear, gaskets), whether/not reinforcede",681250
+681292,2007,"Other fabricated asbestos fibres; mixtures with a basis of asbestos/with a basis of asbestos & magnesium carbonate; articles of such mixtures/of asbestos (eg. thread, woven fabric, clothing, headgear, footwear, gaskets), whether/not reinforcede",681250
+681293,2007,"Other fabricated asbestos fibres; mixtures with a basis of asbestos/with a basis of asbestos & magnesium carbonate; articles of such mixtures/of asbestos (eg. thread, woven fabric, clothing, headgear, footwear, gaskets), whether/not reinforcede",681250
+681320,2007,"Friction material & articles thereof (eg. sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches/the like, with a basis of asbestos, of other mineral substances/of cellulose, whether/not combined with text",681310
+681381,2007,"Friction material & articles thereof (eg. sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches/the like, with a basis of asbestos, of other mineral substances/of cellulose, whether/not combined with text",681310
+681389,2007,"Other friction material & articles thereof (eg. sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches/the like, with a basis of asbestos, of other mineral substances/of cellulose, whether/not combined wit",681310
+681390,1996,Other,681310
+681390,2002,Other,681310
+701091,1996,"Other, of a capacity :-- Exceeding 1 l",701090
+701092,1996,"Other, of a capacity :-- Exceeding 0.33 l but not exceeding 1 l",701090
+701093,1996,"Other, of a capacity :-- Exceeding 0.15 l but not exceeding 0.33 l",701090
+701094,1996,"Other, of a capacity :-- Not exceeding 0.15 l",701090
+702000,1996,Other articles of glass.,701200
+702000,2002,Other articles of glass.,701200
+702000,2007,Other articles of glass.,701200
+701322,2007,"Stemware drinking glasses, other than of glass-ceramics , of lead crystal.",701321
+701333,2007,"Other drinking glasses, other than of glass ceramics, of lead crystal.",701321
+701328,2007,"Other stemware drinking glasses, other than of glass-ceramics/lead crystal.",701329
+701337,2007,"Other drinking glasses, other than of glass ceramics/lead crystal.",701329
+701341,2007,"Glassware of a kind used for table (other than drinking glasses)/kitchen purposes, other than of glass-ceramics , of lead crystal.",701331
+701342,2007,"Glassware of a kind used for table (other than drinking glasses)/kitchen purposes, other than of glass-ceramics , of glass having a linear coefficient of expansion not > 5 x 10<sup>-6</sup> per Kelvin within a temperature range of 0 ¦C to 300 ¦",701332
+701349,2007,"Other glassware of a kind used for table (other than drinking glasses)/kitchen purposes, other than of glass-ceramics/lead crystal/of glass having a linear coefficient of expansion not > 5 x 10<sup>-6</sup> per Kelvin within a temperature range",701339
+711220,1996,"Of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",711210
+711230,2002,Ash containing precious metal or precious metal compounds,711210
+711230,2007,Ash containing precious metal/precious metal comps.,711210
+711290,1996,Other,711210
+711291,2002,"Of gold, including metal clad with gold but excluding sweepings containing other precious metals",711210
+711291,2007,"Waste & scrap of gold, incl. metal clad with gold but excl. sweepings containing other precious metals",711210
+711292,2002,"Of platinum, including metal clad with platinum but excluding sweepings containing other precious metals",711210
+711292,2007,"Waste & scrap of platinum, incl. metal clad with platinum but excl. sweepings containing other precious metals",711210
+711299,2002,Other,711210
+711299,2007,"Waste & scrap of precious metal/of metal clad with precious metal; other waste & scrap containing precious metal/precious metal compounds, of a kind used principally for the recovery of precious metal, other than gold/platinum, n.e.s. of 71.12",711210
+722530,1996,"Other, not further worked than hot-rolled, in coils",722520
+722530,2002,"Other, not further worked than hotrolled, in coils",722520
+722530,2007,"Other flat-rolled products of other alloy steel, of a width of 600 mm/more, not further worked than hot-rolled, in coils.",722520
+722540,1996,"Other, not further worked than hot-rolled, not in coils",722520
+722540,2002,"Other, not further worked than hotrolled, not in coils",722520
+722540,2007,"Other flat-rolled products of other alloy steel, of a width of 600 mm/more,  not further worked than hot-rolled,  not in coils.",722520
+722550,1996,"Other, not further worked than cold-rolled (cold-reduced)",722520
+722550,2002,"Other, not further worked than coldrolled (coldreduced)",722520
+722550,2007,"Other flat-rolled products of other alloy steel, of a width of 600 mm/more,  not further worked than cold-rolled (cold-reduced),",722520
+722591,1996,Other :-- Electrolytically plated or coated with zinc,722520
+722591,2002,Electrolytically plated or coated with zinc,722520
+722591,2007,"Other n.e.s. in 72.25, flat-rolled products of other alloy steel, of a width of 600 mm/more, of electrolytically plated/coated with zinc.",722520
+722592,1996,Other :-- Otherwise plated or coated with zinc,722520
+722592,2002,Otherwise plated or coated with zinc,722520
+722592,2007,"Other n.e.s. in 72.25, flat-rolled products of other alloy steel, of a width of 600 mm/more, of othw. plated/coated with zinc.",722520
+722599,1996,Other,722520
+722599,2002,Other,722520
+722599,2007,"Other n.e.s. in 72.25, flat-rolled products of other alloy steel, of a width of 600 mm/more, other than of electrolutically/othw. plated/coated with zinc/.",722520
+722693,1996,Other :-- Electrolytically plated or coated with zinc,722699
+722693,2002,Electrolytically plated or coated with zinc,722699
+722694,1996,Other :-- Otherwise plated or coated with zinc,722699
+722694,2002,Otherwise plated or coated with zinc,722699
+722990,1996,Other,722910
+722990,2002,Autres,722910
+722990,2007,"Other wire of other alloy steel, other than of silico-manganese steel.",722910
+730220,1996,Sleepers (cross-ties),730290
+730411,2007,"Line pipe of a kind used for oil/gas pipelines, of stainless steel.",730410
+730419,2007,"Line pipe of a kind used for oil/gas pipelines, other than of stainless steel.",730410
+730422,2007,"Casing, tubing & drill pipe, of a kind used in drilling for oil/gas, of stainless steel",730421
+730423,2007,"Casing, tubing & drill pipe, of a kind used in drilling for oil/gas, other than of stainless steel",730421
+730424,2007,"Other casing, tubing, of a kind used in drilling for oil/gas, of stainless steel, other than drill pipe.",730429
+730611,2007,"Line pipe of a kind used for oil/gas pipelines, welded, of stainless steel",730610
+730619,2007,"Other line pipe of a kind used for oil/gas pipelines, other than welded/of stainless steel",730610
+730621,2007,"Casing & tubing of a kind used in drilling for oil/gas, welded, of stainless steel",730620
+730629,2007,"Casing & tubing of a kind used in drilling for oil/gas, other than welded/of stainless steel",730620
+730661,2007,"Other tubes, pipes & hollow profiles (excl. of 7306.10-7306.40), welded, of non-circular cross-section, of square/rectangular cross-section",730660
+730669,2007,"Other tubes, pipes & hollow profiles (excl. of 7306.10-7306.40), welded, of other non-circular cross-section, other than of square/rectangular cross-section",730660
+731419,1996,Woven cloth :-- Other,731413
+731419,2002,Other,731413
+731419,2007,"Woven cloth (excl. endless bands for machinery), other than of stainless steel wire",731413
+731990,1996,Other,731910
+731990,2002,Other,731910
+731990,2007,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos & similar articles, for use in the hand, of iron/steel; not elsewhere specified/incld..",731910
+732111,1996,Cooking appliances and plate warmers :-- For gas fuel or for both gas and other fuels,732119
+732111,2002,For gas fuel or for both gas and other fuels,732119
+732111,2007,"Cooking appliances & plate warmers , for gas fuel/for both gas & other fuels.",732119
+732113,1996,Cooking appliances and plate warmers :-- For solid fuel,732119
+732113,2002,For solid fuel,732119
+732181,1996,Other appliances :-- For gas fuel or for both gas and other fuels,732189
+732181,2002,For gas fuel or for both gas and other fuels,732189
+732181,2007,"Non-electric domestic appliances. & parts thereof , of iron/steel (similar to but excl. those of 7321.11-7321.13), for gas fuel/ for both gas & other fuels.",732189
+732183,1996,Other appliances :-- For solid fuel,732189
+732183,2002,For solid fuel,732189
+740110,1996,Copper mattes,740100
+740110,2002,Copper mattes,740100
+740120,1996,Cement copper (precipitated copper),740100
+740120,2002,Cement copper (precipitated copper),740100
+740329,1996,Copper alloys :-- Other copper alloys (other than master alloys of heading No. 74.05),740323
+740329,2002,Other copper alloys (other than master alloys of heading 74.05),740323
+740329,2007,"Other copper alloys (other than master alloys of heading 74.05), other than copper-zinc alloys(brass),/copper-tin base alloys(bronze).",740323
+740729,1996,Of copper alloys :-- Other,740722
+740729,2002,Other,740722
+740729,2007,"Bars, rods & profiles, of copper alloys (excl. of 7407.21)",740722
+741531,1996,Other threaded articles :-- Screws for wood,741533
+741532,1996,Other threaded articles :-- Other screws; bolts and nuts,741533
+741819,1996,"Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like :-- Other",741700
+741819,2002,Other,741700
+741819,2007,"Table, kitchen/other household articles & parts thereof; of copper, other than pot scourers & scouring/polishing pads, gloves & the like",741700
+741420,1996,Cloth,741999
+741420,2002,Cloth,741999
+741490,1996,Other,741999
+741490,2002,Other,741999
+741600,1996,Copper springs.,741999
+741600,2002,Copper springs.,741999
+780300,1996,"Lead bars, rods, profiles and wire.",780600
+780300,2002,"Lead bars, rods, profiles and wire.",780600
+780500,1996,"Lead tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",780600
+780500,2002,"Lead tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",780600
+790700,1996,Other articles of zinc.,790600
+790700,2002,Other articles of zinc.,790600
+790700,2007,Other articles of zinc.,790600
+800400,1996,"Tin plates, sheets and strip, of a thickness exceeding 0.2 mm.",800700
+800400,2002,"Tin plates, sheets and strip, of a thickness exceeding 0.2 mm.",800700
+800500,1996,"Tin foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials), of a thickness (excluding any backing) not exceeding 0.2 mm; tin powders and flakes.",800700
+800500,2002,"Tin foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials), of a thickness (excluding any backing) not exceeding 0.2 mm; tin powders and flakes.",800700
+800600,1996,"Tin tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",800700
+800600,2002,"Tin tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",800700
+810194,2002,"Unwrought tungsten, including bars and rods obtained simply by sintering",810191
+810194,2007,"Unwrought tungsten (wolfram), incl. bars & rods obt. simply by sintering",810191
+810197,2002,Waste and scrap,810191
+810197,2007,Tungsten (wolfram) waste & scrap,810191
+810193,1996,Other :-- Wire,810196
+810294,2002,"Unwrought molybdenum, including bars and rods obtained simply by sintering",810291
+810294,2007,"Unwrought molybdenum, incl. bars & rods obt. simply by sintering",810291
+810297,2002,Waste and scrap,810291
+810297,2007,Molybdenum waste & scrap,810291
+810292,1996,"Other :-- Bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil",810295
+810293,1996,Other :-- Wire,810296
+810320,2002,"Unwrought tantalum, including bars and rods obtained simply by sintering; powders",810310
+810320,2007,"Unwrought tantalum, incl. bars & rods obt. simply by sintering; powders",810310
+810330,2002,Waste and scrap,810310
+810330,2007,Tantalum waste & scrap,810310
+810520,2002,Cobalt mattes and other intermediate products of cobalt metallurgy; unwrought cobalt; powders,810510
+810520,2007,Cobalt mattes & other intermediate products of cobalt metallurgy; unwrought cobalt; powders,810510
+810530,2002,Waste and scrap,810510
+810530,2007,Cobalt waste & scrap,810510
+810720,2002,Unwrought cadmium; powders,810710
+810720,2007,Unwrought cadmium; powders,810710
+810730,2002,Waste and scrap,810710
+810730,2007,Cadmium waste & scrap,810710
+810820,2002,Unwrought titanium; powders,810810
+810820,2007,Unwrought titanium; powders,810810
+810830,2002,Waste and scrap,810810
+810830,2007,Titanium waste & scrap,810810
+810920,2002,Unwrought zirconium; powders,810910
+810920,2007,Unwrought zirconium; powders,810910
+810930,2002,Waste and scrap,810910
+810930,2007,Zirconium waste & scrap,810910
+811010,2002,Unwrought antimony; powders,811000
+811010,2007,Unwrought antimony; powders,811000
+811020,2002,Waste and scrap,811000
+811020,2007,Antimony waste & scrap,811000
+811090,2002,Other,811000
+811090,2007,"Antimony & articles thereof , n.e.s. in 81.10",811000
+811212,2002,Unwrought; powders,811211
+811212,2007,"Beryllium, unwrought; powders",811211
+811213,2002,Waste and scrap,811211
+811213,2007,Beryllium waste & scrap,811211
+811221,2002,Unwrought; powders,811220
+811221,2007,"Chromium, unwrought; powders",811220
+811222,2002,Waste and scrap,811220
+811222,2007,Chromium waste & scrap,811220
+811229,2002,Other,811220
+811229,2007,"Chromium & articles thereof , n.e.s. in 81.12",811220
+811240,1996,Vanadium,811230
+811240,2002,Vanadium,811230
+811299,1996,Other,811259
+811299,2002,Other,811259
+811299,2007,"germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium, & articles of these metals, excl. waste & scrap, powder, unwrought.",811259
+811251,2002,Unwrought; powders,811291
+811251,2007,"Thallium, unwrought; powders",811291
+811252,2002,Waste and scrap,811291
+811252,2007,Thallium waste & scrap,811291
+811292,2002,Unwrought; waste and scrap; powders,811291
+811292,2007,"germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium, & articles of these metals, incl. waste & scrap, powder, unwrought.",811291
+841582,1996,"Other :-- Other, incorporating a refrigerating unit",841510
+841582,2002,"Other, incorporating a refrigerating unit",841510
+841582,2007,"Air-conditioning machines (excl. of 8415.10-8415.81), incorporating a refrigerating unit",841510
+841829,1996,"Refrigerators, household type :-- Other",841822
+841829,2002,Other,841822
+841829,2007,"Refrigerators, household type, excl. compression type.",841822
+842119,1996,"Centrifuges, including centrifugal dryers :-- Other",841989
+842119,2002,Other,841989
+842119,2007,"Other centrifuges, incl. centrifugal dryers, excl. cream separators & clothes-dryers.",841989
+842489,1996,Other appliances : Other,841989
+842489,2002,Other,841989
+842489,2007,"Other mechanical appliances (whether/not hand-operated) for projecting, dispersing/spraying liquids/powders; excl. 8424.10, 8424.20, 8424.30, 8424.81",841989
+842839,1996,"Other continuous-action elevators and conveyors, for goods or materials :-- Other",841989
+842839,2002,Other,841989
+842839,2007,"Other continuous-action elevators & conveyors, for goods/materials, (excl. specially designed for underground use,or bucklet type/belt type).",841989
+845610,1996,Operated by laser or other light or photon beam processes,841989
+845610,2002,Operated by laser or other light or photon beam processes,841989
+845610,2007,"Machine-tools for working any material by removal of material, operated by laser/other light/photon beam processes",841989
+845620,1996,Operated by ultrasonic processes,841989
+845620,2002,Operated by ultrasonic processes,841989
+845620,2007,"Machine-tools for working any material by removal of material, operated by ultrasonic processes",841989
+845630,1996,Operated by electro-discharge processes,841989
+845630,2002,Operated by electrodischarge processes,841989
+845630,2007,"Machine-tools for working any material by removal of material, operated by electro-discharge processes",841989
+845690,2007,"Other machine-tools for working any material by removal of material, other than the ones operated by laser/other light/proton beam, ultrasonic,/electro-discharge processes.",841989
+845691,1996,Other :-- For dry-etching patterns on semiconductor materials,841989
+845691,2002,For dryetching patterns on semiconductor materials,841989
+845699,1996,Other,841989
+845699,2002,Other,841989
+846221,1996,"Bending, folding, straightening or flattening machines (including presses) :-- Numerically controlled",841989
+846221,2002,Numerically controlled,841989
+846221,2007,"Bending, folding, straightening/flattening machines (incl. presses) , numerically controlled.",841989
+846229,1996,"Bending, folding, straightening or flattening machines (including presses) :-- Other",841989
+846229,2002,Other,841989
+846229,2007,"Bending, folding, straightening/flattening machines (incl. presses) ,other than numerically controlled.",841989
+846410,1996,Sawing machines,841989
+846410,2002,Sawing machines,841989
+846410,2007,Sawing machines,841989
+846420,1996,Grinding or polishing machines,841989
+846420,2002,Grinding or polishing machines,841989
+846420,2007,Grinding/polishing machines.,841989
+846490,1996,Other,841989
+846490,2002,Other,841989
+846490,2007,"Other Machine-tools for working stone, ceramics, concrete, asbestos-cement/like mineral materials/for cold working glass excl. sawing machines/grinding/polishing machines.",841989
+846599,1996,Other,841989
+846599,2002,Other,841989
+846599,2007,"Machine-tools (incl. machines for nailing, stapling, glueing/othw. assembling) for working wood, cork, bone, hard rubber, hard plastics/similar hard materials; other n.e.s. in 84.65",841989
+847710,1996,Injection-moulding machines,841989
+847710,2002,Injectionmoulding machines,841989
+847710,2007,Injection-moulding machines,841989
+847720,1996,Extruders,841989
+847720,2002,Extruders,841989
+847720,2007,Extruders,841989
+847730,1996,Blow moulding machines,841989
+847730,2002,Blow moulding machines,841989
+847730,2007,Blow moulding machines,841989
+847740,1996,Vacuum moulding machines and other thermoforming machines,841989
+847740,2002,Vacuum moulding machines and other thermoforming machines,841989
+847740,2007,Vacuum moulding machines & other thermoforming machines,841989
+847759,1996,Other machinery for moulding or otherwise forming :-- Other,841989
+847759,2002,Other,841989
+847759,2007,"Other machinery for moulding/othw. forming, other than Machinery for moulding/retreading pneumatic tyres/for moulding/othw. forming inner tubes",841989
+847780,1996,Other machinery,841989
+847780,2002,Other machinery,841989
+847780,2007,"Machinery for working rubber/plastics/for the manufacture of products from these materials, not specified/incld. elsewhere in this Ch., Other machinery, n.e.s. in 84.77",841989
+847950,1996,"Industrial robots, not elsewhere specified or included",841989
+847950,2002,"Industrial robots, not elsewhere specified or included",841989
+847950,2007,"Industrial robots, not elsewhere specified/incld.",841989
+847989,1996,Other machines and mechanical appliances :-- Other,841989
+847989,2002,Other,841989
+847989,2007,"Other machines & mechanical appliances, other than Machines & mechanical appliances for treating metal, incl. electric wire coil-winders/Mixing/kneading/crushing/grinding/screening/sifting/homogenising/emulsifying/stirring machines",841989
+848071,1996,Moulds for rubber or plastics :-- Injection or compression types,841989
+848071,2002,Injection or compression types,841989
+848071,2007,"Moulds for rubber/plastics , Injection/compression types",841989
+848610,2007,Machines & apparatus for the manufacture of boules/wafers,841989
+848620,2007,Machines & apparatus for the manufacture of semiconductor devices/of electronic integrated circuits,841989
+848630,2007,Machines & apparatus for the manufacture of flat panel displays,841989
+848640,2007,Machines & apparatus specified in Note 9 (C) to this Ch.,841989
+842531,1996,Other winches; capstans :-- Powered by electric motor,842520
+842531,2002,Powered by electric motor,842520
+842531,2007,"Other winches; capstans, powered by electric motor",842520
+842539,1996,Other winches; capstans :-- Other,842520
+842539,2002,Other,842520
+842539,2007,"Other winches; capstans,other than the ones powered by electric motor",842520
+842890,1996,Other machinery,842850
+842890,2002,Other machinery,842850
+842890,2007,"Other lifting, handling, loading/unloading machinery, n.e.s. in 84.28",842850
+843062,1996,"Other machinery, not self-propelled :- Scrapers",843069
+844210,1996,Phototype-setting and composing machines,844230
+844210,2002,Phototypesetting and composing machines,844230
+844220,1996,"Machinery, apparatus and equipment for type-setting or composing by other processes, with or without founding device",844230
+844220,2002,"Machinery, apparatus and equipment for typesetting or composing by other processes, with or without founding device",844230
+844314,2007,"Letterpress printing machinery, reel fed, excl. flexographic printing",844321
+844315,2007,"Letterpress printing machinery, other than reel fed, excl. flexographic printing",844329
+844316,2007,Flexographic printing machinery,844330
+844332,2007,"Other printers, copying machines & facsimile machines, whether/not combined , exclud the ones which perform two/more of the functions of printing, copying/facsimile transmission; capable of connecting to an automatic data processing machine/to",844331
+844339,2007,"Other printers, copying machines & facsimile machines, whether/not combined , excl. 8443.31 & 8443.32",844331
+844351,1996,Other printing machinery :-- Ink-jet printing machines,844331
+844351,2002,Inkjet printing machines,844331
+847160,1996,"Input or output units, whether or not containing storage units in the same housing",844331
+847160,2002,"Input or output units, whether or not containing storage units in the same housing",844331
+847160,2007,"Input/output units, whether/not containing storage units in the same housing",844331
+847290,1996,Other,844331
+847290,2002,Other,844331
+847290,2007,"Other office machines (eg. hectograph/stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting/wrapping machines, pencil-sharpening machines, perforating/stapling machines), exclud.",844331
+844317,2007,Gravure printing machinery,844340
+844319,1996,Offset printing machinery :-- Other,844359
+844319,2002,Other,844359
+844319,2007,Offset printing machinery (excl. of 8443.11 & 8443.12),844359
+844390,1996,Parts,844360
+844390,2002,Parts,844360
+844391,2007,"Parts & accessories of printing machinery used for printing by means of plates, cylinders & other printing components of heading 84.42",844360
+844399,2007,Other parts & accessories for printing machinery excl. 8443.91,844360
+847330,1996,Parts and accessories of the machines of heading No. 84.71,844360
+847330,2002,Parts and accessories of the machines of heading 84.71,844360
+847330,2007,Parts & accessories of the machines of heading 84.71,844360
+847340,1996,Parts and accessories of the machines of heading No. 84.72,844360
+847340,2002,Parts and accessories of the machines of heading 84.72,844360
+847340,2007,Parts & accessories of the machines of heading 84.72,844360
+847350,1996,Parts and accessories equally suitable for use with machines of two or more of the headings Nos. 84.69 to 84.72,844360
+847350,2002,Parts and accessories equally suitable for use with machines of two or more of the headings 84.69 to 84.72,844360
+847350,2007,Parts & accessories equally suitable for use with machines of two/more of the headings 84.69 to 84.72,844360
+844849,1996,Parts and accessories of weaving machines (looms) or of their auxiliary machinery :-- Other,844841
+844849,2002,Other,844841
+844849,2007,"Other parts & accessories of weaving machines (looms)/of their auxiliary machinery other than reeds for looms, healds & heald-frames.",844841
+846110,1996,Planing machines,846190
+846911,1996,Automatic typewriters and word-processing machines :-- Word-processing machines,846900
+846911,2002,Wordprocessing machines,846900
+846912,1996,Automatic typewriters and word-processing machines :-- Automatic typewriters,846900
+846912,2002,Automatic typewriters,846900
+846920,1996,"Other typewriters, electric",846900
+846920,2002,"Other typewriters, electric",846900
+846930,1996,"Other typewriters, non-electric",846900
+846930,2002,"Other typewriters, nonelectric",846900
+847090,1996,Other,847040
+847090,2002,Other,847040
+847090,2007,"Other electronic calculating machines, n.e.s. in 84.70",847040
+847130,1996,"Portable digital automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display",847110
+847130,2002,"Portable digital automatic data processing machines, weighing not more than 10 kg, consisting of a least a central processing unit, a keyboard and a display",847110
+847130,2007,"-  Portable automatic data processing machines, weighing not more than 10 kg, consisting of a least a central processing unit, a keyboard & a display",847110
+847141,1996,"Other digital automatic data processing machines :-- Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",847110
+847141,2002,"Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",847110
+847141,2007,"Other automatic data processing machines :  Comprising in the same housing at least a central processing unit & an input & output unit, whether/not combined",847110
+847149,1996,"Other digital automatic data processing machines :-- Other, presented in the form of systems",847110
+847149,2002,"Other, presented in the form of systems",847110
+847149,2007,"Other automatic data processing machines , presented in the form of systems.",847110
+847150,1996,"Digital processing units other than those of sub-headings 8471.41 and 8471.49, whether or not containing in the same housing one or two of the following types of unit : storage units, input units, output units",847110
+847150,2002,"Digital processing units other than those of subheading 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit : storage units, input units, output units",847110
+847150,2007,"Processing units other than those of sub-heading 8471.41/8471.49, whether/not containing in the same housing one/two of the following types of unit : storage units, input units, output units",847110
+848710,2007,Ships'/boats' propellers & blades therefor,848510
+848790,2007,"Machinery parts, not containing electrical connectors, insulators, coils, contacts/other electrical features, not specified/incld. elsewhere in this Ch., other than Ships'/boats' propellers & blades therefor",848590
+841990,1996,Parts,848690
+841990,2002,Parts,848690
+841990,2007,"Parts of machinery, plant/laboratory equipment, whether/not electrically heated (excl. furnaces, ovens & other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking,",848690
+842191,1996,"Parts :-- Of centrifuges, including centrifugal dryers",848690
+842191,2002,"Of centrifuges, including centrifugal dryers",848690
+842191,2007,"Parts of centrifuges, incl. centrifugal dryers.",848690
+842490,1996,Parts,848690
+842490,2002,Parts,848690
+842490,2007,"Parts of mechanical appliances (whether/not hand-operated) for projecting, dispersing/spraying liquids/powders; fire extinguishers, whether/not charged; spray guns & similar appliances; steam/sand blasting machines & similar jet projecting mach",848690
+843139,1996,Of machinery of heading No. 84.28 :-- Other,848690
+843139,2002,Other,848690
+843139,2007,"Other parts suitable for use solely/principally with the machinery (exluding that of 84.25, 84.27, 84.28, & of lifts,skip hoists/escalators).",848690
+846610,1996,Tool holders and self-opening dieheads,848690
+846610,2002,Tool holders and selfopening dieheads,848690
+846610,2007,Tool holders & self-opening dieheads,848690
+846620,1996,Work holders,848690
+846620,2002,Work holders,848690
+846620,2007,Work holders,848690
+846630,1996,Dividing heads and other special attachments for machine-tools,848690
+846630,2002,Dividing heads and other special attachments for machinetools,848690
+846630,2007,Dividing heads & other special attachments for machine-tools,848690
+846691,1996,Other :-- For machines of heading No. 84.64,848690
+846691,2002,For machines of heading 84.64,848690
+846691,2007,Parts & accessories for machines of heading 84.64,848690
+846692,1996,Other :-- For machines of heading No. 84.65,848690
+846692,2002,For machines of heading 84.65,848690
+846692,2007,Parts & accessories for machines of heading 84.65,848690
+846693,1996,Other :-- For machines of headings Nos. 84.56 to 84.61,848690
+846693,2002,For machines of headings 84.56 to 84.61,848690
+846693,2007,Parts & accessories for machines of heading 84.56 to 84.61,848690
+846694,1996,Other :-- For machines of heading No. 84.62 or 84.63,848690
+846694,2002,For machines of heading 84.62 or 84.63,848690
+846694,2007,Parts & accessories for machines of heading 84.62 to 84.63,848690
+847790,1996,Parts,848690
+847790,2002,Parts,848690
+847790,2007,"Parts of Machinery for working rubber/plastics/for the manufacture of products from these materials, not specified/incld. elsewhere in this Ch..",848690
+847990,1996,Parts,848690
+847990,2002,Parts,848690
+847990,2007,"Parts of Machines & mechanical appliances having individual functions, not specified/incld. elsewhere in this Ch..",848690
+850590,1996,"Other, including parts",850530
+850590,2002,"Other, including parts",850530
+850590,2007,"Other, incl. parts of electro-magnets; electro-magnetic/permanent magnet chucks, clamps & similar holding devices; electro-magnetic lifting heads",850530
+850811,2007,"Vacuum cleaners, with self-contained electric motor,  Of a power not > 1,500 W & having a dust bag/other receptacle capacity not > 20 l",850910
+850819,2007,"Vacuum cleaners, with self-contained electric motor, other than of 8508.11",850910
+850920,1996,Floor polishers,850980
+850920,2002,Floor polishers,850980
+850930,1996,Kitchen waste disposers,850980
+850930,2002,Kitchen waste disposers,850980
+850870,2007,Parts of vacuum cleaners,850990
+851718,2007,"Other telephone sets, incl. telephones for cellular networks/for other wireless networks, other than 8517.11 & 8517.12",851712
+851719,1996,Telephone sets; videophones :-- Other,851712
+851719,2002,Other,851712
+851722,1996,Facsimile machines and teleprinters :-- Teleprinters,851712
+851722,2002,Teleprinters,851712
+851730,1996,Telephonic or telegraphic switching apparatus,851712
+851730,2002,Telephonic or telegraphic switching apparatus,851712
+851750,1996,"Other apparatus, for carrier-current line systems or for digital line systems",851712
+851750,2002,"Other apparatus, for carriercurrent line systems or for digital line systems",851712
+851761,2007,"Base stations for transmission/reception of voice, images/other data, incl. apparatus for communication in a wired/wireless network (such as a local/wide area network)",851712
+851762,2007,"Machines for the reception, conversion & transmission/regeneration of voice, images/other data, incl. switching & routing apparatus",851712
+851769,2007,"Other apparatus for transmission/reception of voice, images/other data, incl. apparatus for communication in a wired/wireless network (such as a local/wide area network) , other than 8517.61 & 8517.62",851712
+851780,1996,Other apparatus,851712
+851780,2002,Other apparatus,851712
+852510,1996,Transmission apparatus,851712
+852510,2002,Transmission apparatus,851712
+852520,1996,Transmission apparatus incorporating reception apparatus,851712
+852520,2002,Transmission apparatus incorporating reception apparatus,851712
+852530,1996,Television cameras,851712
+852530,2002,Television cameras,851712
+852540,1996,Still image video cameras and other video camera recorders,851712
+852540,2002,Still image video cameras and other video camera recorders; digital cameras,851712
+852550,2007,Transmission apparatus for radio-broadcasting/television,851712
+852560,2007,Transmission apparatus for radio-broadcasting/televison incorporating reception apparatus,851712
+852580,2007,"Television cameras, digital cameras & video camera recorders",851712
+852790,1996,Other apparatus,851712
+852790,2002,Other apparatus,851712
+851790,1996,Parts,851770
+851790,2002,Parts,851770
+852990,1996,Other,851770
+852990,2002,Other,851770
+852990,2007,"Other parts suitable for use solely/principally with the apparatus of headings 85.25 to 85.28., other than aerials & aerial reflectors of all kinds",851770
+851920,2007,"Apparatus operated by coins, banknotes, bank cards, tokens/by other means of payment",851910
+851921,1996,Other record-players :-- Without loudspeaker,851910
+851921,2002,Without loudspeaker,851910
+851929,1996,Other record-players :-- Other,851910
+851929,2002,Other,851910
+851940,1996,Transcribing machines,851910
+851940,2002,Transcribing machines,851910
+851981,2007,"Other sound recording/reproducing apparatus, using magnetic, optical/semiconductor media, other than 8519.20, 8519.30, 8519.50",851910
+851989,2007,"Other sound recording/reproducing apparatus,  other n.e.s. in Ch. 85.19",851910
+851992,1996,Other sound reproducing apparatus :-- Pocket-size cassette-players,851910
+851992,2002,Pocketsize cassetteplayers,851910
+851993,1996,"Other sound reproducing apparatus :-- Other, cassette-type",851910
+851993,2002,"Other, cassettetype",851910
+851999,1996,Other sound reproducing apparatus :-- Other,851910
+851999,2002,Other,851910
+852010,1996,Dictating machines not capable of operating without an external source of power,851910
+852010,2002,Dictating machines not capable of operating without an external source of power,851910
+852032,1996,Other magnetic tape recorders incorporating sound reproducing apparatus :-- Digital audio type,851910
+852032,2002,Digital audio type,851910
+852033,1996,"Other magnetic tape recorders incorporating sound reproducing apparatus :-- Other, cassette-type",851910
+852033,2002,"Other, cassettetype",851910
+852039,1996,Other magnetic tape recorders incorporating sound reproducing apparatus :-- Other,851910
+852039,2002,Other,851910
+852090,1996,Other,851910
+852090,2002,Other,851910
+851931,1996,Turntables (record-decks) :-- With automatic record changing mechanism,851930
+851931,2002,With automatic record changing mechanism,851930
+851939,1996,Turntables (record-decks) :- Other,851930
+851939,2002,Other,851930
+851950,2007,Telephone answering machines,852020
+852312,1996,Magnetic tapes :-- Of a width exceeding 4 mm but not exceeding 6.5 mm,852311
+852312,2002,Of a width exceeding 4 mm but not exceeding 6.5 mm,852311
+852313,1996,Magnetic tapes :-- Of a width exceeding 6.5 mm,852311
+852313,2002,Of a width exceeding 6.5 mm,852311
+852320,1996,Magnetic discs,852311
+852320,2002,Magnetic discs,852311
+852329,2007,"Magnetic media for the recording of sound/of other phenomena, but excl. products of Ch. 37., other than cards incorporating a magnetic stripe",852311
+852340,2007,"Optical media for the recording of sound/of other phenomena, but excl. products of Ch. 37.",852311
+852351,2007,"Semi-conductor media, solid-state non-volatile storage devices, for the recording of sound/of other phenomena, but excl. products of Ch. 37.",852311
+852359,2007,"Other semi-conductor media, for the recording of sound/of other phenomena, but excl. products of Ch. 37., other than Smart Cards & Solid-state non-volatile storage devices",852311
+852380,2007,"Discs, tapes, solid-state non-volatile storage devices, smart cards & other media for the recording of sound/of other phenomena, whether/not recorded, incl. matrices & masters for the production of discs, but excl. products of Ch.37., other n.e",852311
+852390,1996,Other,852311
+852390,2002,Other,852311
+852410,1996,Gramophone records,852311
+852410,2002,Gramophone records,852311
+852431,1996,Discs for laser reading systems :-- For reproducing phenomena other than sound or image,852311
+852431,2002,For reproducing phenomena other than sound or image,852311
+852432,1996,Discs for laser reading systems :-- For reproducing sound only,852311
+852432,2002,For reproducing sound only,852311
+852439,1996,Discs for laser reading systems :-- Other,852311
+852439,2002,Other,852311
+852440,1996,Magnetic tapes for reproducing phenomena other than sound or image,852311
+852440,2002,Magnetic tapes for reproducing phenomena other than sound or image,852311
+852451,1996,Other magnetic tapes :-- Of a width not exceeding 4 mm,852311
+852451,2002,Of a width not exceeding 4 mm,852311
+852452,1996,Other magnetic tapes :-- Of a width exceeding 4 mm but not exceeding 6.5 mm,852311
+852452,2002,Of a width exceeding 4 mm but not exceeding 6.5 mm,852311
+852453,1996,Other magnetic tapes :-- Of a width exceeding 6.5 mm,852311
+852453,2002,Of a width exceeding 6.5 mm,852311
+852491,1996,Other :-- For reproducing phenomena other than sound or image,852311
+852491,2002,For reproducing phenomena other than sound or image,852311
+852499,1996,Other,852311
+852499,2002,Other,852311
+854381,1996,Other machines and apparatus :-- Proximity cards and tags,852311
+854381,2002,Proximity cards and tags,852311
+852330,1996,Cards incorporating a magnetic stripe,852321
+852330,2002,Cards incorporating a magnetic stripe,852321
+852460,1996,Cards incorporating a magnetic stripe,852321
+852460,2002,Cards incorporating a magnetic stripe,852321
+854290,1996,Parts,852352
+854290,2002,Parts,852352
+854290,2007,Parts of electronic integrated  circuits,852352
+854340,1996,Electric fence energisers,852352
+854340,2002,Electric fence energisers,852352
+854370,2007,"Other machines & apparatus for electrical machines & apparatus, other than than machines & apparatus for electroplating/ electrolysis/electrophoresis/signal generators/particle accelerators.",852352
+854389,1996,Other machines and apparatus :-- Other,852352
+854389,2002,Other,852352
+854390,1996,Parts,852352
+854390,2002,Parts,852352
+854390,2007,"Parts of electrical machines & apparatus, having individual functions, not specified/incld. elsewhere in this Ch..",852352
+852791,2007,"Other reception apparatus for radio-broadcasting, combined with sound recording/reproducing apparatus.",852731
+852792,2007,"Other reception apparatus for radio-broadcasting, not combined with sound recording/reproducing apparatus but combined with a clock.",852732
+852799,2007,"Other reception apparatus for radio-broadcasting, excl. 8527.91 & 8527.92",852739
+852813,1996,"Reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus :-- Black and white or other monochrome",852812
+852813,2002,Black and white or other monochrome,852812
+852871,2007,"Reception apparatus for televison, Not designed to incorporate a video display/screen",852812
+852872,2007,"Other colour reception apparatus for television, whether/not incorporating radio-broadcast receivers/sound/video recording/reproducing apparatus,",852812
+852873,2007,"Other reception apparatus for television, whether/not incorporating radio-broadcast receivers/sound/video recording/reproducing apparatus, black & white/other monochrome.",852812
+852822,1996,Video monitors :-- Black and white or other monochrome,852821
+852822,2002,Black and white or other monochrome,852821
+852849,2007,"Other cathode-ray tube monitors , not of a kind solely/principally used in an automatic data processing system of heading 84.71",852821
+852859,2007,"Other monitors, not of a kind solely/principally used in an automatic data processing system of heading 84.71",852821
+852869,2007,"Projectors, not of a kind solely/principally used in an automatic data processing system of heading 84.71",852830
+854212,1996,Monolithic digital integrated circuits :-- Cards incorporating an electronic integrated circuit (smart cards),854210
+854229,2002,Other,854221
+854230,1996,Other monolithic integrated circuits,854221
+854231,2007,"Electronic integrated  circuits, processors & controllers, whether/not combined with memories, converters, logic circuits, amplifiers, clock & timing circuits,/other circuits",854221
+854232,2007,"Electronic integrated  circuits, memories",854221
+854233,2007,"Electronic integrated  circuits, qmplifiers",854221
+854239,2007,"Other Electronic integrated  circuits, other than Amplifiers/Memories/Processors & controllers",854221
+854240,1996,Hybrid integrated circuits,854221
+854260,2002,Hybrid integrated circuits,854221
+854890,1996,Other,854221
+854890,2002,Other,854221
+854890,2007,"Other electrical parts of machinery/apparatus, not specified/incld. elsewhere in this Ch., other than waste & scrap of primary cells/primary batteries & electric accumulators/ spent primary cells/ spent primary batteries & spent electric accumu",854221
+854310,2007,"Particle accelerators for electrical machines & apparatus, having individual functions, not specified/incld. elsewhere in this Ch",854319
+854441,1996,"Other electric conductors, for a voltage not exceeding 80 V :-- Fitted with connectors",854442
+854441,2002,Fitted with connectors,854442
+854451,1996,"Other electric conductors, for a voltage exceeding 80 V but not exceeding 1,000 V :-- Fitted with connectors",854442
+854451,2002,Fitted with connectors,854442
+854449,1996,"Other electric conductors, for a voltage not exceeding 80 V :-- Other",854459
+854449,2002,Other,854459
+854449,2007,"Other electric conductors, for a voltage not > 1,000 V, not fitted with connectors",854459
+860691,1996,Other :-- Covered and closed,860620
+860691,2002,Covered and closed,860620
+860691,2007,"Covered & closed railway/tramway goods vans & wagons, not self-propelled.",860620
+870831,1996,Brakes and servo-brakes and parts thereof :-- Mounted brake linings,870830
+870831,2002,Mounted brake linings,870830
+870839,1996,Brakes and servo-brakes and parts thereof :-- Other,870830
+870839,2002,Other,870830
+870850,1996,"Drive-axles with differential, whether or not provided with other transmission components",870840
+870850,2002,"  Driveaxles with differential, whether or not provided with other transmission components",870840
+870850,2007,"Drive-axles with differential, whether/not provided with other transmission components, & non-driving axles; parts thereof of the motor vehicles of headings 87.01 to 87.05.",870840
+870860,1996,Non-driving axles and parts thereof,870840
+870860,2002,Nondriving axles and parts thereof,870840
+870880,1996,Suspension shock-absorbers,870840
+870880,2002,Suspension shockabsorbers,870840
+870880,2007,"Suspension systems & parts thereof (incl. shock-absorbers) ,of the motor vehicles of headings 87.01 to 87.05",870840
+870891,1996,Other parts and accessories :-- Radiators,870840
+870891,2002,Radiators,870840
+870891,2007,Radiators & parts thereof  for the motor vehicles of 87.01-87.05,870840
+870892,1996,Other parts and accessories :-- Silencers and exhaust pipes,870840
+870892,2002,Silencers and exhaust pipes,870840
+870892,2007,Silencers (mufflers) & exhaust pipes; parts thereof for the motor vehicles of 87.01-87.05,870840
+870894,1996,"Other parts and accessories :-- Steering wheels, steering columns and steering boxes",870840
+870894,2002,"Steering wheels, steering columns and steering boxes",870840
+870894,2007,"Steering wheels, steering columns & steering boxes; parts thereof  for the motor vehicles of 87.01-87.05",870840
+870895,2007,Safety airbags with inflater system; parts thereof   for the motor vehicles of 87.01-87.05,870840
+870899,1996,Other parts and accessories :-- Other,870840
+870899,2002,Other,870840
+870899,2007,"Other parts & accessories for the motor vehicles of 87.01-87.05, exclud. 8708.91/92/93/94/95.",870840
+880110,1996,Gliders and hang gliders,880100
+880110,2002,Gliders and hang gliders,880100
+880190,1996,Other,880100
+880190,2002,Other,880100
+880521,2002,Air combat simulators and parts thereof,880520
+880521,2007,Air combat simulators & parts thereof,880520
+880529,2002,Other,880520
+880529,2007,"Ground flying trainers other than air combat simulators, & parts thereof",880520
+890610,2002,Warships,890600
+890610,2007,Warships,890600
+890690,2002,Other,890600
+890690,2007,"Vessels, n.e.s. in 89.01-8906.10, incl. lifeboats other than rowing boats",890600
+900652,1996,"Other cameras :-- Other, for roll film of a width less than 35 mm",900620
+900652,2002,"Other, for roll film of a width less than 35 mm",900620
+900652,2007,"Photographic cameras, for roll film of a width less than 35 mm.",900620
+900653,1996,"Other cameras :-- Other, for roll film of a width of 35 mm",900620
+900653,2002,"Other, for roll film of a width of 35 mm",900620
+900653,2007,"Photographic cameras, for roll film of a width of 35 mm.",900620
+900659,1996,Other cameras :-- Other,900620
+900659,2002,Other,900620
+900659,2007,"Photographic cameras, other n.e.s.",900620
+900669,1996,Photographic flashlight apparatus and flashbulbs :-- Other,900662
+900669,2002,Other,900662
+900669,2007,Other photographic flashlight apparatus & flashbulbs other than discharge lamp (electronic) flashlight apparatus,900662
+900991,2002,Automatic document feeders,900990
+900992,2002,Paper feeders,900990
+900993,2002,Sorters,900990
+900999,2002,Other,900990
+902119,1996,Artificial joints and other orthopaedic or fracture appliances :-- Other,902110
+902111,1996,Artificial joints and other orthopaedic or fracture appliances :-- Artificial joints,902131
+902130,1996,Other artificial parts of the body,902139
+902780,1996,Other instruments and apparatus,902740
+902780,2002,Other instruments and apparatus,902740
+902780,2007,"Instruments & apparatus for physical/chemical analysis, n.e.s. in 90.27",902740
+903032,2007,Multimeters with a recording device,903020
+903083,1996,"Other instruments and apparatus :-- Other, with a recording device",903020
+903083,2002,"Other, with a recording device",903020
+903084,2007,"Other instruments & apparatusspecially designed for telecommunications, with a recording device",903020
+903089,1996,Other instruments and apparatus :-- Other,903020
+903089,2002,Other,903020
+903089,2007,"Other instruments & apparatusspecially designed for telecommunications, exclud. 9030.82/84",903020
+903033,2007,"Other instruments & apparatus, for measuring/checking voltage, current, resistance/power, without a recording device, other than 9030.31 & 9030.32,",903039
+903149,1996,Other optical instruments and appliances :-- Other,903130
+903149,2002,Other,903130
+903149,2007,"Other optical instruments & appliances , other than 9031.41",903130
+910119,1996,"Wrist-watches, electrically operated, whether or not incorporating a stop-watch facility :-- Other",910112
+910119,2002,Other,910112
+910119,2007,"Other Wrist-watches, electrically operated, whether/not incorporating a stop-watch facility, without mechanical display, with case of precious metal/metal clad with precious metal",910112
+910690,1996,Other,910620
+910690,2002,Other,910620
+910690,2007,"Other time of day recording apparatus, with clock/watch movement/with synchronous motor , other than time-registers/time-recorders.",910620
+910891,1996,Other :-- Measuring 33.8 mm or less,910890
+910899,1996,Other,910890
+911210,1996,Cases of metal,911220
+911280,1996,Other cases,911220
+920300,1996,Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds.,920590
+920300,2002,Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds.,920590
+920410,1996,Accordions and similar instruments,920590
+920410,2002,Accordions and similar instruments,920590
+920420,1996,Mouth organs,920590
+920420,2002,Mouth organs,920590
+920910,1996,"Metronomes, tuning forks and pitch pipes",920999
+920910,2002,"Metronomes, tuning forks and pitch pipes",920999
+920920,1996,Mechanisms for musical boxes,920999
+920920,2002,Mechanisms for musical boxes,920999
+920993,1996,Other :-- Parts and accessories for the musical instruments of heading No. 92.03,920999
+920993,2002,Parts and accessories for the musical instruments of heading 92.03,920999
+930111,2002,Selfpropelled,930100
+930111,2007,"Artillery weapons (e.g., guns, howitzers & mortars), self-propelled",930100
+930119,2002,Other,930100
+930119,2007,"Artillery weapons (e.g., guns, howitzers & mortars), other than self-propelled",930100
+930120,2002,Rocket launchers; flamethrowers; grenade launchers; torpedo tubes and similar projectors,930100
+930120,2007,Rocket launchers; flame-throwers; grenade launchers; torpedo tubes & similar projectors,930100
+930190,2002,Other,930100
+930190,2007,"Military weapons, other than revolvers, pistols & the arms of 93.07, n.e.s. in 93.01",930100
+930591,2002,Of military weapons of heading 93.01,930590
+930591,2007,Parts & accessories of military weapons of 93.01,930590
+930599,2002,Other,930590
+930599,2007,"Parts & accessories of articles of 93.01-93.04, n.e.s. in 93.05",930590
+930630,1996,Other cartridges and parts thereof,930610
+930630,2002,Other cartridges and parts thereof,930610
+930630,2007,"Other cartridges & thereof bombs, grenades, torpedoes, mines, missiles & similar munitions of war",930610
+940151,2007,Seats of bamboo/rattan.,940150
+940159,2007,"Seats of cane/osier, other than of bamboo/rattan.",940150
+940381,2007,Furniture of banboo/rattan.,940380
+940389,2007,"Furniture of other materials, incl. cane, osier,/similar materials; other than bamboo/rattan.",940380
+950100,1996,"Wheeled toys designed to be ridden by children (for example, tricycles, scooters, pedal cars); dolls' carriages.",950300
+950100,2002,"Wheeled toys designed to be ridden by children (for example, tricycles, scooters, pedal cars); dolls' carriages.",950300
+950210,1996,"Dolls, whether or not dressed",950300
+950210,2002,"Dolls, whether or not dressed",950300
+950291,1996,"Parts and accessories :-- Garments and accessories therefor, footwear and headgear",950300
+950291,2002,"Garments and accessories therefor, footwear and headgear",950300
+950299,1996,Parts and accessories :-- Other,950300
+950299,2002,Other,950300
+950310,1996,"Electric trains, including tracks, signals and other accessories therefor",950300
+950310,2002,"Electric trains, including tracks, signals and other accessories therefor",950300
+950320,1996,"Reduced-size (scale) model assembly kits, whether or not working models, excluding those of subheading No. 9503.10",950300
+950320,2002,"Reducedsize (scale) model assembly kits, whether or not working models, excluding those of subheading 9503.10",950300
+950330,1996,Other construction sets and constructional toys,950300
+950330,2002,Other construction sets and constructional toys,950300
+950341,1996,Toys representing animals or non-human creatures :-- Stuffed,950300
+950341,2002,Stuffed,950300
+950349,1996,Toys representing animals or non-human creatures :-- Other,950300
+950349,2002,Other,950300
+950350,1996,Toy musical instruments and apparatus,950300
+950350,2002,Toy musical instruments and apparatus,950300
+950360,1996,Puzzles,950300
+950360,2002,Puzzles,950300
+950370,1996,"Other toys, put up in sets or outfits",950300
+950370,2002,"Other toys, put up in sets or outfits",950300
+950380,1996,"Other toys and models, incorporating a motor",950300
+950380,2002,"Other toys and models, incorporating a motor",950300
+950390,1996,Other,950300
+950390,2002,Other,950300
+950490,1996,Other,950430
+950490,2002,Other,950430
+950490,2007,"Articles for funfair/table/parlour games (excl. playing cards), incl. pintables, special tables for casino games & auto. bowling alley equip.",950430
+950810,2002,Travelling circuses and travelling menageries,950800
+950810,2007,Travelling circuses & travelling menageries,950800
+950890,2002,Other,950800
+950890,2007,"Roundabouts, swings, shooting galleries & other fairground amusements; travelling theatres",950800
+961330,1996,Table lighters,961380
+961420,1996,Pipes and pipe bowls,961400
+961420,2002,Pipes and pipe bowls,961400
+961490,1996,Other,961400
+961490,2002,Other,961400
